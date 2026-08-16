@@ -593,7 +593,7 @@
             "last_commit": "2026-05-14T15:10:24Z",
             "owner": "tidwall",
             "repo": "gjson",
-            "stars": 15549
+            "stars": 15551
           }
         },
         {
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:20:31.483Z",
+    "last_updated": "2026-08-16T03:29:17.409Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
     "enhanced_repository": "enhansome/enhansome-tinygo",
