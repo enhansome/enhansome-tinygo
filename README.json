@@ -281,7 +281,7 @@
             "last_commit": "2026-08-03T01:19:35Z",
             "owner": "tinygo-org",
             "repo": "pio",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -593,7 +593,7 @@
             "last_commit": "2026-05-14T15:10:24Z",
             "owner": "tidwall",
             "repo": "gjson",
-            "stars": 15551
+            "stars": 15553
           }
         },
         {
@@ -854,7 +854,7 @@
             "last_commit": "2025-08-13T08:22:59Z",
             "owner": "wasmvision",
             "repo": "go-wasmcv",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:29:17.409Z",
+    "last_updated": "2026-08-17T03:30:19.760Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
     "enhanced_repository": "enhansome/enhansome-tinygo",
