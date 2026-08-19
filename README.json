@@ -368,7 +368,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:52:44Z",
+            "last_commit": "2026-08-18T05:00:50Z",
             "owner": "bluenviron",
             "repo": "gomavlib",
             "stars": 194
@@ -593,7 +593,7 @@
             "last_commit": "2026-05-14T15:10:24Z",
             "owner": "tidwall",
             "repo": "gjson",
-            "stars": 15552
+            "stars": 15551
           }
         },
         {
@@ -874,7 +874,7 @@
             "last_commit": "2026-08-04T04:35:23Z",
             "owner": "tinygo-org",
             "repo": "bluetooth",
-            "stars": 988
+            "stars": 989
           }
         },
         {
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:25:06.206Z",
+    "last_updated": "2026-08-19T03:27:02.055Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
     "enhanced_repository": "enhansome/enhansome-tinygo",
