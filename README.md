@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,450 | 🐛 213 | 🌐 Go | 📅 2026-08-18.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,511 | 🐛 213 | 🌐 Go | 📅 2026-08-19.
 
 **Contributing**:
 
@@ -80,7 +80,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 ### Protocol implementations
 
 * [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 194 | 🐛 2 | 🌐 Go | 📅 2026-08-18 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
-* [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 191 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
+* [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 192 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
 * [natiu-mqtt](https://github.com/soypat/natiu-mqtt) ⭐ 105 | 🐛 2 | 🌐 Go | 📅 2026-07-06 - A dead-simple, extensible MQTT implementation well suited for embedded systems.
 * [seqs](https://github.com/soypat/seqs) ⚠️ Archived - Networking library for use on microcontrollers. Basically a more featureful LWIP.
 * [peasocket](https://github.com/soypat/peasocket) ⭐ 37 | 🐛 1 | 🌐 Go | 📅 2023-01-22 - Dead-simple, extensible websocket implementation in Go.
