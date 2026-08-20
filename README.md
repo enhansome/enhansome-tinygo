@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,511 | 🐛 213 | 🌐 Go | 📅 2026-08-19.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,605 | 🐛 214 | 🌐 Go | 📅 2026-08-19.
 
 **Contributing**:
 
@@ -70,7 +70,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 * [tinymath](https://github.com/orsinium-labs/tinymath) ⭐ 101 | 🐛 0 | 🌐 Go | 📅 2026-06-02 - The fastest and smallest Go math library for constrained environments, like microcontrollers or WebAssembly.
 * [go-pico](https://github.com/djthorpe/go-pico) ⭐ 70 | 🐛 7 | 🌐 Go | 📅 2022-11-20 - Raspberry Pi RP2040 Pico SDK for golang.
 * [go-maquina](https://github.com/soypat/go-maquina) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2023-08-25 - Finite State Machine (FSM) implementation with simplicity and maintainability in mind using Go generics.
-* [pio](https://github.com/tinygo-org/pio) ⭐ 51 | 🐛 11 | 🌐 Go | 📅 2026-08-03 - Programmable I/O API for RP2040/RP2350 using TinyGo
+* [pio](https://github.com/tinygo-org/pio) ⭐ 51 | 🐛 12 | 🌐 Go | 📅 2026-08-03 - Programmable I/O API for RP2040/RP2350 using TinyGo
 * [tinyfs](https://github.com/tinygo-org/tinyfs) ⭐ 46 | 🐛 7 | 🌐 C | 📅 2026-02-26 - Embedded filesystems for TinyGo like FATfs and LittleFS on microcontrollers.
 * [tinytest](https://github.com/orsinium-labs/tinytest) ⭐ 35 | 🐛 0 | 🌐 Go | 📅 2024-03-02 - The only assertion library that works with TinyGo
 * [fat](https://github.com/soypat/fat) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-07-13 - Filesystem implementation using the File Allocation Table in pure Go.
@@ -103,7 +103,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 * [gjson](https://github.com/tidwall/gjson) ⭐ 15,551 | 🐛 100 | 🌐 Go | 📅 2026-05-14 - Get JSON values quickly - JSON parser for Go
 * [easyjson](https://github.com/mailru/easyjson) ⭐ 4,912 | 🐛 100 | 🌐 Go | 📅 2026-03-14 - Fast JSON serializer for golang.
 * [jsony](https://github.com/orsinium-labs/jsony) ⭐ 174 | 🐛 0 | 🌐 Go | 📅 2025-11-20 - A blazing fast and safe Go package for serializing JSON
-* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 62 | 🐛 1 | 🌐 Go | 📅 2026-08-17 - Reflection-free Protobuf for Go.
+* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 62 | 🐛 1 | 🌐 Go | 📅 2026-08-19 - Reflection-free Protobuf for Go.
 
 ## Gaming
 
@@ -136,7 +136,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Wireless Communication
 
-* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 989 | 🐛 128 | 🌐 C | 📅 2026-08-04 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
+* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 989 | 🐛 129 | 🌐 C | 📅 2026-08-04 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
 * [lorawan](https://github.com/tinygo-org/drivers/tree/release/lora/lorawan) ⭐ 744 | 🐛 160 | 🌐 Go | 📅 2026-08-10 - LoRaWAN implementation for embedded devices using TinyGo.
 
 # Awesome TinyGo Creations
@@ -162,13 +162,13 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,065 | 🐛 169 | 🌐 Go | 📅 2026-08-17 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
-* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,079 | 🐛 29 | 🌐 Go | 📅 2026-08-18 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
-* [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 608 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,066 | 🐛 169 | 🌐 Go | 📅 2026-08-17 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,079 | 🐛 29 | 🌐 Go | 📅 2026-08-19 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
+* [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 97 | 🐛 4 | 🌐 Go | 📅 2026-08-16 - IEEE 754 half-precision floating-point format (binary16) library.
 * [`math32`](https://github.com/chewxy/math32) ⭐ 86 | 🐛 5 | 🌐 Go | 📅 2026-05-15 - 32bit math functions in pure Go.
 * [`godsp`](https://github.com/goccmack/godsp) ⭐ 39 | 🐛 1 | 🌐 Go | 📅 2020-03-14 - Basic digital signal processing functions using the discrete wavelet transform (DWT).
-* [`tinystring`](https://github.com/cdvelop/tinystring) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2026-07-19 - Lightweight text manipulation library with a fluid API and no external dependencies.
+* [`tinystring`](https://github.com/cdvelop/tinystring) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2026-08-20 - Lightweight text manipulation library with a fluid API and no external dependencies.
 * [`lap`](https://github.com/soypat/lap) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2023-07-08 - Extremely lightweight linear algebra package similar to gonum.
 * [`tvd`](https://github.com/soypat/tvd) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2023-07-14 - Total Variation Denoising filter ideal for capturing edge transitions.
 * [`cereal`](https://github.com/soypat/cereal) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-11-27 - All-you-need serial device tooling integrating bugst, goburrow, tarm and sers serial libraries.
@@ -187,4 +187,4 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

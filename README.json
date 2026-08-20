@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 784951910,
                 "language": "Go",
-                "last_commit": "2026-08-17T12:38:20Z",
+                "last_commit": "2026-08-19T15:05:49Z",
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
                 "stars": 62
@@ -1198,7 +1198,7 @@
             "last_commit": "2026-08-17T23:34:32Z",
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3065
+            "stars": 3066
           }
         },
         {
@@ -1210,7 +1210,7 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-18T01:44:00Z",
+            "last_commit": "2026-08-19T16:56:09Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1079
@@ -1228,7 +1228,7 @@
             "last_commit": "2024-11-03T22:29:03Z",
             "owner": "go-gl",
             "repo": "mathgl",
-            "stars": 608
+            "stars": 609
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "archived": false,
             "id": 943337093,
             "language": "Go",
-            "last_commit": "2026-07-19T18:05:03Z",
+            "last_commit": "2026-08-20T03:23:02Z",
             "owner": "tinywasm",
             "repo": "fmt",
             "stars": 20
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:17.579Z",
+    "last_updated": "2026-08-20T03:26:57.818Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
