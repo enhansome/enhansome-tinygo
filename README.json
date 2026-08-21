@@ -355,7 +355,7 @@
                     "last_commit": "2023-06-21T17:28:16Z",
                     "owner": "eyelight",
                     "repo": "bouncer",
-                    "stars": 7
+                    "stars": 8
                   }
                 },
                 {
@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-18T05:00:50Z",
+                    "last_commit": "2026-08-20T09:53:37Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
@@ -407,7 +407,7 @@
                     "last_commit": "2026-02-14T14:15:27Z",
                     "owner": "FiloSottile",
                     "repo": "mlkem768",
-                    "stars": 192
+                    "stars": 193
                   }
                 },
                 {
@@ -452,7 +452,7 @@
                     "last_commit": "2023-01-22T15:20:17Z",
                     "owner": "soypat",
                     "repo": "peasocket",
-                    "stars": 37
+                    "stars": 38
                   }
                 },
                 {
@@ -847,7 +847,7 @@
                     "last_commit": "2022-08-04T13:03:21Z",
                     "owner": "Nerzal",
                     "repo": "tinydom",
-                    "stars": 22
+                    "stars": 23
                   }
                 },
                 {
@@ -1195,7 +1195,7 @@
             "archived": false,
             "id": 46462030,
             "language": "Go",
-            "last_commit": "2026-08-17T23:34:32Z",
+            "last_commit": "2026-08-21T03:15:18Z",
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3066
@@ -1210,7 +1210,7 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-19T16:56:09Z",
+            "last_commit": "2026-08-20T15:56:54Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1079
@@ -1243,7 +1243,7 @@
             "last_commit": "2026-08-16T22:02:17Z",
             "owner": "x448",
             "repo": "float16",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "last_commit": "2026-08-20T03:23:02Z",
             "owner": "tinywasm",
             "repo": "fmt",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:26:57.818Z",
+    "last_updated": "2026-08-21T03:32:07.973Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",

@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,605 | 🐛 214 | 🌐 Go | 📅 2026-08-19.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 181,737 | 🐛 215 | 🌐 Go | 📅 2026-08-20.
 
 **Contributing**:
 
@@ -74,16 +74,16 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 * [tinyfs](https://github.com/tinygo-org/tinyfs) ⭐ 46 | 🐛 7 | 🌐 C | 📅 2026-02-26 - Embedded filesystems for TinyGo like FATfs and LittleFS on microcontrollers.
 * [tinytest](https://github.com/orsinium-labs/tinytest) ⭐ 35 | 🐛 0 | 🌐 Go | 📅 2024-03-02 - The only assertion library that works with TinyGo
 * [fat](https://github.com/soypat/fat) ⭐ 18 | 🐛 0 | 🌐 Go | 📅 2026-07-13 - Filesystem implementation using the File Allocation Table in pure Go.
-* [bouncer](https://github.com/eyelight/bouncer) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2023-06-21 - bouncer is a button input handler library supporting press-lengths of different durations, and debouncing.
+* [bouncer](https://github.com/eyelight/bouncer) ⭐ 8 | 🐛 1 | 🌐 Go | 📅 2023-06-21 - bouncer is a button input handler library supporting press-lengths of different durations, and debouncing.
 * [schedule](https://github.com/soypat/schedule) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2023-10-08 - Event-loop scheduling library for synchronizing actions over long periods of time.
 
 ### Protocol implementations
 
-* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 194 | 🐛 2 | 🌐 Go | 📅 2026-08-18 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
-* [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 192 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
+* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 194 | 🐛 4 | 🌐 Go | 📅 2026-08-20 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
+* [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 193 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
 * [natiu-mqtt](https://github.com/soypat/natiu-mqtt) ⭐ 105 | 🐛 2 | 🌐 Go | 📅 2026-07-06 - A dead-simple, extensible MQTT implementation well suited for embedded systems.
 * [seqs](https://github.com/soypat/seqs) ⚠️ Archived - Networking library for use on microcontrollers. Basically a more featureful LWIP.
-* [peasocket](https://github.com/soypat/peasocket) ⭐ 37 | 🐛 1 | 🌐 Go | 📅 2023-01-22 - Dead-simple, extensible websocket implementation in Go.
+* [peasocket](https://github.com/soypat/peasocket) ⭐ 38 | 🐛 1 | 🌐 Go | 📅 2023-01-22 - Dead-simple, extensible websocket implementation in Go.
 * [ether-swtch](https://github.com/soypat/ether-swtch) ⚠️ Archived - Low level Ethernet/IP/TCP/HTTP stack marshaller/unmarshaller for use in tiny places.
 * [peamodbus](https://github.com/soypat/peamodbus) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2023-11-07 - Fault tolerant, TCP modbus implementation in Go that just works. Apt for embedded systems.
 * [go-bthome](https://github.com/hybridgroup/go-bthome) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2025-01-07 - Minimal package for creating and parsing BTHome service data using Go/TinyGo.
@@ -121,7 +121,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### DOM Manipulation
 
-* [TinyDom](https://github.com/Nerzal/tinydom) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2022-08-04 - DOM manipulation library. For use in WASM
+* [TinyDom](https://github.com/Nerzal/tinydom) ⭐ 23 | 🐛 0 | 🌐 Go | 📅 2022-08-04 - DOM manipulation library. For use in WASM
 * [GoUI](https://github.com/goui-org/goui) ⭐ 12 | 🐛 1 | 🌐 Go | 📅 2024-01-30 - A web framework for making user interfaces
 
 ### WebSockets
@@ -162,13 +162,13 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,066 | 🐛 169 | 🌐 Go | 📅 2026-08-17 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
-* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,079 | 🐛 29 | 🌐 Go | 📅 2026-08-19 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,066 | 🐛 169 | 🌐 Go | 📅 2026-08-21 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,079 | 🐛 29 | 🌐 Go | 📅 2026-08-20 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
-* [`float16`](https://github.com/x448/float16) ⭐ 97 | 🐛 4 | 🌐 Go | 📅 2026-08-16 - IEEE 754 half-precision floating-point format (binary16) library.
+* [`float16`](https://github.com/x448/float16) ⭐ 98 | 🐛 4 | 🌐 Go | 📅 2026-08-16 - IEEE 754 half-precision floating-point format (binary16) library.
 * [`math32`](https://github.com/chewxy/math32) ⭐ 86 | 🐛 5 | 🌐 Go | 📅 2026-05-15 - 32bit math functions in pure Go.
 * [`godsp`](https://github.com/goccmack/godsp) ⭐ 39 | 🐛 1 | 🌐 Go | 📅 2020-03-14 - Basic digital signal processing functions using the discrete wavelet transform (DWT).
-* [`tinystring`](https://github.com/cdvelop/tinystring) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2026-08-20 - Lightweight text manipulation library with a fluid API and no external dependencies.
+* [`tinystring`](https://github.com/cdvelop/tinystring) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2026-08-20 - Lightweight text manipulation library with a fluid API and no external dependencies.
 * [`lap`](https://github.com/soypat/lap) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2023-07-08 - Extremely lightweight linear algebra package similar to gonum.
 * [`tvd`](https://github.com/soypat/tvd) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2023-07-14 - Total Variation Denoising filter ideal for capturing edge transitions.
 * [`cereal`](https://github.com/soypat/cereal) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2023-11-27 - All-you-need serial device tooling integrating bugst, goburrow, tarm and sers serial libraries.
@@ -187,4 +187,4 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
