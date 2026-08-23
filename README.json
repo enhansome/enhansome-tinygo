@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-21T05:00:23Z",
+                    "last_commit": "2026-08-22T16:55:39Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
@@ -407,7 +407,7 @@
                     "last_commit": "2026-02-14T14:15:27Z",
                     "owner": "FiloSottile",
                     "repo": "mlkem768",
-                    "stars": 193
+                    "stars": 192
                   }
                 },
                 {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-05-14T15:10:24Z",
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15551
+                "stars": 15552
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2026-03-14T14:52:53Z",
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4911
+                "stars": 4912
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 784951910,
                 "language": "Go",
-                "last_commit": "2026-08-21T14:00:02Z",
+                "last_commit": "2026-08-22T06:40:49Z",
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
                 "stars": 62
@@ -941,7 +941,7 @@
                 "last_commit": "2026-08-21T12:02:19Z",
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 989
+                "stars": 990
               }
             },
             {
@@ -1198,7 +1198,7 @@
             "last_commit": "2026-08-21T03:15:18Z",
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3067
+            "stars": 3066
           }
         },
         {
@@ -1240,7 +1240,7 @@
             "archived": false,
             "id": 230667560,
             "language": "Go",
-            "last_commit": "2026-08-16T22:02:17Z",
+            "last_commit": "2026-08-23T03:15:36Z",
             "owner": "x448",
             "repo": "float16",
             "stars": 98
@@ -1341,7 +1341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:23:06.828Z",
+    "last_updated": "2026-08-23T03:32:00.856Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
