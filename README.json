@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-23T04:02:30Z",
+                    "last_commit": "2026-08-24T13:33:40Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
@@ -874,6 +874,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "TinyWebSocket",
+                  "description": "Wraps the api to provide a better developer experience, while being compilable by TinyGo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 344947164,
+                    "language": "Go",
+                    "last_commit": "2021-03-05T22:16:37Z",
+                    "owner": "Nerzal",
+                    "repo": "tinywebsocket",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "WebSockets"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "go-modules",
                   "description": "WebAssembly, WASI, and Component Model tools for Go",
                   "children": [],
@@ -1188,7 +1210,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "u-root",
           "description": "Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.",
           "children": [],
           "repo_info": {
@@ -1198,12 +1220,12 @@
             "last_commit": "2026-08-21T03:15:18Z",
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3066
+            "stars": 3067
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cbor",
           "description": "Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).",
           "children": [],
           "repo_info": {
@@ -1218,7 +1240,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "mathgl",
           "description": "A pure Go 3D math library.",
           "children": [],
           "repo_info": {
@@ -1233,7 +1255,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "float16",
           "description": "IEEE 754 half-precision floating-point format (binary16) library.",
           "children": [],
           "repo_info": {
@@ -1248,7 +1270,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "math32",
           "description": "32bit math functions in pure Go.",
           "children": [],
           "repo_info": {
@@ -1263,7 +1285,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "godsp",
           "description": "Basic digital signal processing functions using the discrete wavelet transform (DWT).",
           "children": [],
           "repo_info": {
@@ -1278,7 +1300,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "fmt",
           "description": "Lightweight text manipulation library with a fluid API and no external dependencies.",
           "children": [],
           "repo_info": {
@@ -1293,7 +1315,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lap",
           "description": "Extremely lightweight linear algebra package similar to gonum.",
           "children": [],
           "repo_info": {
@@ -1308,7 +1330,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "tvd",
           "description": "Total Variation Denoising filter ideal for capturing edge transitions.",
           "children": [],
           "repo_info": {
@@ -1323,7 +1345,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "cereal",
           "description": "All-you-need serial device tooling integrating bugst, goburrow, tarm and sers serial libraries.",
           "children": [],
           "repo_info": {
@@ -1341,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:34:08.923Z",
+    "last_updated": "2026-08-24T14:35:25.138Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
