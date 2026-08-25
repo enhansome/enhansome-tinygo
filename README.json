@@ -963,7 +963,7 @@
                 "last_commit": "2026-08-21T12:02:19Z",
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 990
+                "stars": 992
               }
             },
             {
@@ -1232,7 +1232,7 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-21T12:05:55Z",
+            "last_commit": "2026-08-25T03:15:58Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1081
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:25.138Z",
+    "last_updated": "2026-08-25T03:28:01.817Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
