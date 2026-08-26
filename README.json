@@ -636,7 +636,7 @@
                 "last_commit": "2026-05-14T15:10:24Z",
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15552
+                "stars": 15554
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2026-03-14T14:52:53Z",
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4914
+                "stars": 4915
               }
             },
             {
@@ -960,10 +960,10 @@
                 "archived": false,
                 "id": 189875241,
                 "language": "C",
-                "last_commit": "2026-08-21T12:02:19Z",
+                "last_commit": "2026-08-26T03:19:53Z",
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 992
+                "stars": 993
               }
             },
             {
@@ -1004,7 +1004,7 @@
             "last_commit": "2025-08-20T10:31:38Z",
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1508
+            "stars": 1509
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "archived": false,
             "id": 46462030,
             "language": "Go",
-            "last_commit": "2026-08-21T03:15:18Z",
+            "last_commit": "2026-08-25T19:36:48Z",
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3067
@@ -1232,7 +1232,7 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-25T03:15:58Z",
+            "last_commit": "2026-08-25T12:21:28Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1081
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:07.636Z",
+    "last_updated": "2026-08-26T03:35:26.600Z",
     "original_repository": "tinygo-org/awesome-tinygo",
     "original_repository_id": 347229687,
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
