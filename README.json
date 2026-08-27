@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-27T05:00:56Z",
+                    "last_commit": "2026-08-27T12:45:48Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
@@ -1363,7 +1363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:33.613Z",
+    "last_updated": "2026-08-27T13:03:55.609Z",
     "original_repository_info": {
       "archived": false,
       "id": 347229687,
