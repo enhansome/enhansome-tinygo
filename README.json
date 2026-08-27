@@ -205,7 +205,7 @@
                     "last_commit": "2026-08-21T14:51:30Z",
                     "owner": "tinygo-org",
                     "repo": "drivers",
-                    "stars": 744
+                    "stars": 745
                   }
                 },
                 {
@@ -389,7 +389,7 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-24T13:33:40Z",
+                    "last_commit": "2026-08-27T05:00:56Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
@@ -636,7 +636,7 @@
                 "last_commit": "2026-05-14T15:10:24Z",
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15554
+                "stars": 15556
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2026-03-14T14:52:53Z",
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4915
+                "stars": 4916
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 784951910,
                 "language": "Go",
-                "last_commit": "2026-08-22T06:40:49Z",
+                "last_commit": "2026-08-26T22:24:26Z",
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
                 "stars": 62
@@ -963,7 +963,7 @@
                 "last_commit": "2026-08-26T03:19:53Z",
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 993
+                "stars": 994
               }
             },
             {
@@ -978,7 +978,7 @@
                 "last_commit": "2026-08-21T14:51:30Z",
                 "owner": "tinygo-org",
                 "repo": "drivers",
-                "stars": 744
+                "stars": 745
               }
             }
           ],
@@ -1004,7 +1004,7 @@
             "last_commit": "2025-08-20T10:31:38Z",
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1509
+            "stars": 1510
           }
         },
         {
@@ -1217,10 +1217,10 @@
             "archived": false,
             "id": 46462030,
             "language": "Go",
-            "last_commit": "2026-08-25T19:36:48Z",
+            "last_commit": "2026-08-27T04:43:22Z",
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3067
+            "stars": 3068
           }
         },
         {
@@ -1232,7 +1232,7 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-25T12:21:28Z",
+            "last_commit": "2026-08-26T22:46:58Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1081
@@ -1363,9 +1363,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:35:26.600Z",
-    "original_repository": "tinygo-org/awesome-tinygo",
-    "original_repository_id": 347229687,
+    "last_updated": "2026-08-27T12:09:33.613Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 347229687,
+      "language": null,
+      "last_commit": "2026-07-25T08:38:57Z",
+      "owner": "tinygo-org",
+      "repo": "awesome-tinygo",
+      "stars": 159
+    },
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
     "enhanced_repository": "enhansome/enhansome-tinygo",
     "enhanced_repository_description": null,
