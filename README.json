@@ -18,7 +18,8 @@
                 "owner": "sago35",
                 "repo": "tinydisplay",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "tinygo-org",
                 "repo": "vscode-tinygo",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "sago35",
                 "repo": "tinygo.vim",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "sago35",
                 "repo": "tinygo-autocmpl",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "amken3d",
                 "repo": "tinygo-toolkit",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "tinygo-org",
                 "repo": "tinyhci",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -122,7 +128,8 @@
                 "owner": "tinygo-org",
                 "repo": "tinyfont",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "tinygo-org",
                 "repo": "tinydraw",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "aykevl",
                 "repo": "tinygl",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "tinygo-org",
                 "repo": "tinyterm",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "Nondzu",
                 "repo": "ssd1306_font",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -205,8 +216,9 @@
                     "last_commit": "2026-08-21T14:51:30Z",
                     "owner": "tinygo-org",
                     "repo": "drivers",
-                    "stars": 745
-                  }
+                    "stars": 746
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +233,8 @@
                     "owner": "joetifa2003",
                     "repo": "mm-go",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -236,7 +249,8 @@
                     "owner": "periph",
                     "repo": "devices",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -251,7 +265,8 @@
                     "owner": "orsinium-labs",
                     "repo": "tinymath",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -266,7 +281,8 @@
                     "owner": "djthorpe",
                     "repo": "go-pico",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -281,7 +297,8 @@
                     "owner": "soypat",
                     "repo": "go-maquina",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -296,7 +313,8 @@
                     "owner": "tinygo-org",
                     "repo": "pio",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -311,7 +329,8 @@
                     "owner": "tinygo-org",
                     "repo": "tinyfs",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -326,7 +345,8 @@
                     "owner": "orsinium-labs",
                     "repo": "tinytest",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -341,7 +361,8 @@
                     "owner": "soypat",
                     "repo": "fat",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -356,7 +377,8 @@
                     "owner": "eyelight",
                     "repo": "bouncer",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -371,7 +393,8 @@
                     "owner": "soypat",
                     "repo": "schedule",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -389,11 +412,12 @@
                     "archived": false,
                     "id": 175249826,
                     "language": "Go",
-                    "last_commit": "2026-08-27T12:45:48Z",
+                    "last_commit": "2026-08-28T05:02:32Z",
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -408,7 +432,8 @@
                     "owner": "FiloSottile",
                     "repo": "mlkem768",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -423,7 +448,8 @@
                     "owner": "soypat",
                     "repo": "natiu-mqtt",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -438,7 +464,8 @@
                     "owner": "soypat",
                     "repo": "seqs",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -453,7 +480,8 @@
                     "owner": "soypat",
                     "repo": "peasocket",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -468,7 +496,8 @@
                     "owner": "soypat",
                     "repo": "ether-swtch",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -483,7 +512,8 @@
                     "owner": "soypat",
                     "repo": "peamodbus",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -498,7 +528,8 @@
                     "owner": "hybridgroup",
                     "repo": "go-bthome",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -513,7 +544,8 @@
                     "owner": "TheThingsNetwork",
                     "repo": "go-cayenne-lib",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -528,7 +560,8 @@
                     "owner": "soypat",
                     "repo": "tiny-sproto",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -543,7 +576,8 @@
                     "owner": "soypat",
                     "repo": "go-canard",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -558,7 +592,8 @@
                     "owner": "soypat",
                     "repo": "achicken",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -580,7 +615,8 @@
                     "owner": "brandondube",
                     "repo": "pctl",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -595,7 +631,8 @@
                     "owner": "aykevl",
                     "repo": "fusion",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -610,7 +647,8 @@
                     "owner": "ysoldak",
                     "repo": "magcal",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -633,11 +671,12 @@
                 "archived": false,
                 "id": 65434192,
                 "language": "Go",
-                "last_commit": "2026-05-14T15:10:24Z",
+                "last_commit": "2026-08-28T00:18:08Z",
                 "owner": "tidwall",
                 "repo": "gjson",
                 "stars": 15556
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -652,7 +691,8 @@
                 "owner": "mailru",
                 "repo": "easyjson",
                 "stars": 4916
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -667,7 +707,8 @@
                 "owner": "orsinium-labs",
                 "repo": "jsony",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -678,11 +719,12 @@
                 "archived": false,
                 "id": 784951910,
                 "language": "Go",
-                "last_commit": "2026-08-26T22:24:26Z",
+                "last_commit": "2026-08-28T12:48:00Z",
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -704,7 +746,8 @@
                 "owner": "sago35",
                 "repo": "koebiten",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -719,7 +762,8 @@
                 "owner": "tinygo-org",
                 "repo": "tinygba",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -734,7 +778,8 @@
                 "owner": "orsinium-labs",
                 "repo": "wasm4go",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -749,7 +794,8 @@
                 "owner": "bjatkin",
                 "repo": "flappy-boot",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -764,7 +810,8 @@
                 "owner": "racerxdl",
                 "repo": "gonx",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -779,7 +826,8 @@
                 "owner": "firefly-zero",
                 "repo": "firefly-go",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -794,7 +842,8 @@
                 "owner": "deadprogram",
                 "repo": "tinyrogue",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -809,7 +858,8 @@
                 "owner": "deadprogram",
                 "repo": "ghost-castle",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -824,7 +874,8 @@
                 "owner": "smittytone",
                 "repo": "pi-pico-go",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -848,7 +899,8 @@
                     "owner": "Nerzal",
                     "repo": "tinydom",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -863,7 +915,8 @@
                     "owner": "goui-org",
                     "repo": "goui",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -885,7 +938,8 @@
                     "owner": "Nerzal",
                     "repo": "tinywebsocket",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -907,7 +961,8 @@
                     "owner": "bytecodealliance",
                     "repo": "go-modules",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -922,7 +977,8 @@
                     "owner": "orsinium-labs",
                     "repo": "wypes",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 },
                 {
                   "node_type": "item",
@@ -937,7 +993,8 @@
                     "owner": "wasmvision",
                     "repo": "go-wasmcv",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:34:04.133Z"
                 }
               ],
               "description": null,
@@ -964,7 +1021,8 @@
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
                 "stars": 994
-              }
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             },
             {
               "node_type": "item",
@@ -978,8 +1036,9 @@
                 "last_commit": "2026-08-21T14:51:30Z",
                 "owner": "tinygo-org",
                 "repo": "drivers",
-                "stars": 745
-              }
+                "stars": 746
+              },
+              "first_seen": "2026-08-28T14:34:04.133Z"
             }
           ],
           "description": null,
@@ -1005,7 +1064,8 @@
             "owner": "hybridgroup",
             "repo": "go-haystack",
             "stars": 1510
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1020,7 +1080,8 @@
             "owner": "wasmvision",
             "repo": "wasmvision",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1035,7 +1096,8 @@
             "owner": "sago35",
             "repo": "tinygo-keyboard",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1050,7 +1112,8 @@
             "owner": "ysoldak",
             "repo": "HeadTracker",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1065,7 +1128,8 @@
             "owner": "hybridgroup",
             "repo": "tinyglobo",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1080,7 +1144,8 @@
             "owner": "tinygo-org",
             "repo": "gobadge",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1095,7 +1160,8 @@
             "owner": "hybridgroup",
             "repo": "gopherbot",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1110,7 +1176,8 @@
             "owner": "conejoninja",
             "repo": "ledrace",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1125,7 +1192,8 @@
             "owner": "ysoldak",
             "repo": "fpvc-gadget",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1140,7 +1208,8 @@
             "owner": "sat0ken",
             "repo": "gopher.pretty",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1155,7 +1224,8 @@
             "owner": "tinygo-org",
             "repo": "things",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1170,7 +1240,8 @@
             "owner": "Gustavomurta",
             "repo": "Arduino_Mega_Programmer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1185,7 +1256,8 @@
             "owner": "sat0ken",
             "repo": "gopher-board",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1200,7 +1272,8 @@
             "owner": "ysoldak",
             "repo": "pwm-ws2812",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         }
       ],
       "title": "Awesome TinyGo Creations"
@@ -1221,7 +1294,8 @@
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3068
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1232,11 +1306,12 @@
             "archived": false,
             "id": 186904487,
             "language": "Go",
-            "last_commit": "2026-08-26T22:46:58Z",
+            "last_commit": "2026-08-28T13:08:06Z",
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1251,7 +1326,8 @@
             "owner": "go-gl",
             "repo": "mathgl",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1265,8 +1341,9 @@
             "last_commit": "2026-08-23T03:15:36Z",
             "owner": "x448",
             "repo": "float16",
-            "stars": 98
-          }
+            "stars": 99
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1281,7 +1358,8 @@
             "owner": "chewxy",
             "repo": "math32",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1296,7 +1374,8 @@
             "owner": "goccmack",
             "repo": "godsp",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1311,7 +1390,8 @@
             "owner": "tinywasm",
             "repo": "fmt",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1326,7 +1406,8 @@
             "owner": "soypat",
             "repo": "lap",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1341,7 +1422,8 @@
             "owner": "soypat",
             "repo": "tvd",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         },
         {
           "node_type": "item",
@@ -1356,14 +1438,15 @@
             "owner": "soypat",
             "repo": "cereal",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:34:04.133Z"
         }
       ],
       "title": "Awesome Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:03:55.609Z",
+    "last_updated": "2026-08-28T14:34:04.133Z",
     "original_repository_info": {
       "archived": false,
       "id": 347229687,
