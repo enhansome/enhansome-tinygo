@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "`tinydisplay` is a tiny display for TinyGo development.",
+                "homepage": null,
                 "id": 404732016,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-11-13T13:17:41Z",
+                "open_issues": 0,
                 "owner": "sago35",
                 "repo": "tinydisplay",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "fyne",
+                  "go",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyGo support for Visual Studio Code",
+                "homepage": null,
                 "id": 293514386,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-28T12:20:22Z",
+                "open_issues": 7,
                 "owner": "tinygo-org",
                 "repo": "vscode-tinygo",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -44,12 +58,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyGo support to Vim and Neovim",
+                "homepage": "https://www.vim.org/scripts/script.php?script_id=6028",
                 "id": 343807552,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-12-17T00:40:56Z",
+                "open_issues": 0,
                 "owner": "sago35",
                 "repo": "tinygo.vim",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "coc",
+                  "neovim",
+                  "nvim",
+                  "tinygo",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -60,12 +85,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "adds bash/fish/zsh/clink completion to tinygo",
+                "homepage": null,
                 "id": 291390569,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-06T14:19:12Z",
+                "open_issues": 0,
                 "owner": "sago35",
                 "repo": "tinygo-autocmpl",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bash",
+                  "completion",
+                  "fish",
+                  "fish-shell",
+                  "tinygo",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -76,12 +113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive TinyGo development environment for VS Code with SDK management, target selection, board browser, driver explorer, build tools, and serial monitor",
+                "homepage": null,
                 "id": 1130839773,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-09T05:59:12Z",
+                "open_issues": 0,
                 "owner": "amken3d",
                 "repo": "tinygo-toolkit",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -99,12 +141,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyGo Hardware Continuous Integration (HCI) system for Hardware-In-Loop (HIL) testing using real hardware.",
+                "homepage": "https://tinygo.org",
                 "id": 257104356,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-18T11:57:01Z",
+                "open_issues": 1,
                 "owner": "tinygo-org",
                 "repo": "tinyhci",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "arduino-nano-33-iot",
+                  "arduino-uno",
+                  "circuit-playground-express",
+                  "esp32c3",
+                  "hardware-in-the-loop",
+                  "itsy-bitsy-nrf52840",
+                  "pico",
+                  "rp2040",
+                  "samd21",
+                  "stm32f4",
+                  "tinygo",
+                  "xiao-esp32c3"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -122,12 +182,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text library for TinyGo displays",
+                "homepage": "https://tinygo.org",
                 "id": 176365463,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-23T09:54:11Z",
+                "open_issues": 6,
                 "owner": "tinygo-org",
                 "repo": "tinyfont",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "adafruit",
+                  "arduino",
+                  "arm",
+                  "golang",
+                  "gpio",
+                  "hacktoberfest",
+                  "i2c",
+                  "microbit",
+                  "microcontroller",
+                  "nrf51",
+                  "nrf52",
+                  "nrf52840",
+                  "samd21",
+                  "samd51",
+                  "spi",
+                  "stm32",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -138,12 +221,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyDraw is a package of drawing primitives on TinyGo displays.",
+                "homepage": "https://tinygo.org",
                 "id": 186153161,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-19T18:00:54Z",
+                "open_issues": 2,
                 "owner": "tinygo-org",
                 "repo": "tinydraw",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "adafruit",
+                  "arduino",
+                  "arm",
+                  "display",
+                  "drawing-primitives",
+                  "golang",
+                  "gpio",
+                  "hacktoberfest",
+                  "i2c",
+                  "microbit",
+                  "microcontroller",
+                  "nrf51",
+                  "nrf52",
+                  "nrf52840",
+                  "samd21",
+                  "samd51",
+                  "spi",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -154,12 +261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny graphics library for SPI connected displays",
+                "homepage": null,
                 "id": 618540893,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-23T12:01:56Z",
+                "open_issues": 4,
                 "owner": "aykevl",
                 "repo": "tinygl",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -170,12 +282,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal terminal for TinyGo display devices. Supporting 256-color ANSI escape codes and also monochrome displays.",
+                "homepage": "https://tinygo.org",
                 "id": 334540135,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-12-17T14:55:39Z",
+                "open_issues": 2,
                 "owner": "tinygo-org",
                 "repo": "tinyterm",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "microcontroller",
+                  "terminal",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -186,12 +307,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OLED ssd1306 font library using TinyGo",
+                "homepage": null,
                 "id": 527935196,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-08-23T11:55:01Z",
+                "open_issues": 0,
                 "owner": "Nondzu",
                 "repo": "ssd1306_font",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "embedded",
+                  "font",
+                  "golang",
+                  "oled",
+                  "oled-display",
+                  "oled-display-ssd1306",
+                  "oled-ssd1306",
+                  "pico",
+                  "raspberry",
+                  "rpi",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -211,12 +349,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
+                    "homepage": "https://tinygo.org",
                     "id": 157855967,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-21T14:51:30Z",
+                    "open_issues": 155,
                     "owner": "tinygo-org",
                     "repo": "drivers",
-                    "stars": 746
+                    "stars": 747,
+                    "topics": [
+                      "adxl345",
+                      "apa102",
+                      "blinkm",
+                      "bmp180",
+                      "dotstar",
+                      "ds3231",
+                      "embedded",
+                      "esp8266",
+                      "gpio",
+                      "hacktoberfest",
+                      "i2c",
+                      "lorawan",
+                      "mag3110",
+                      "mma8653",
+                      "mpu6050",
+                      "neopixels",
+                      "sensors",
+                      "spi",
+                      "tinygo",
+                      "ws2812"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -227,12 +391,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generic manual memory management for golang",
+                    "homepage": null,
                     "id": 572676614,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-01-05T23:11:06Z",
+                    "open_issues": 1,
                     "owner": "joetifa2003",
                     "repo": "mm-go",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "golang",
+                      "malloc",
+                      "memory-management"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -243,12 +416,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go·Hardware·Lean - Device drivers",
+                    "homepage": "https://periph.io",
                     "id": 322699942,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-21T21:42:07Z",
+                    "open_issues": 11,
                     "owner": "periph",
                     "repo": "devices",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -259,12 +437,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📐 The fastest and smallest Go math library for constrained environments, like microcontrollers or WebAssembly.",
+                    "homepage": "https://pkg.go.dev/github.com/orsinium-labs/tinymath",
                     "id": 802075547,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T08:45:06Z",
+                    "open_issues": 0,
                     "owner": "orsinium-labs",
                     "repo": "tinymath",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": [
+                      "embedded",
+                      "gamedev",
+                      "go",
+                      "golang",
+                      "math",
+                      "tinygo",
+                      "trigonometry",
+                      "wasm",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -275,12 +468,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Raspberry Pi RP2040 Pico SDK for golang",
+                    "homepage": "https://pkg.go.dev/github.com/djthorpe/go-pico",
                     "id": 496952680,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-20T13:24:23Z",
+                    "open_issues": 7,
                     "owner": "djthorpe",
                     "repo": "go-pico",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "gpio",
+                      "pico",
+                      "raspberry-pi",
+                      "raspberrypi",
+                      "rp2040",
+                      "rpi",
+                      "sdk",
+                      "tinygo"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -291,12 +500,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small finite-state machine library for Go",
+                    "homepage": null,
                     "id": 480128719,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-08-25T23:37:12Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "go-maquina",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "embedded",
+                      "embedded-systems",
+                      "finite-state-machine",
+                      "fsm",
+                      "go",
+                      "golang",
+                      "graphviz",
+                      "state-machine",
+                      "state-machine-diagram"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -307,12 +531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Programmable I/O API for RP2040/RP2350 using TinyGo",
+                    "homepage": "https://tinygo.org",
                     "id": 711032138,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-03T01:19:35Z",
+                    "open_issues": 11,
                     "owner": "tinygo-org",
                     "repo": "pio",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -323,12 +552,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embedded filesystems for TinyGo. Currently supports FATfs and LittleFS on microcontrollers with either SDCard or Flash RAM.",
+                    "homepage": "https://tinygo.org",
                     "id": 278293846,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-02-26T09:37:28Z",
+                    "open_issues": 7,
                     "owner": "tinygo-org",
                     "repo": "tinyfs",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": [
+                      "embedded",
+                      "fatfs",
+                      "flash",
+                      "littlefs",
+                      "microcontroller",
+                      "sdcard",
+                      "tinygo"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -339,12 +581,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✅ The only assertion library that works with TinyGo",
+                    "homepage": "https://pkg.go.dev/github.com/orsinium-labs/tinytest/is",
                     "id": 766136714,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2024-03-02T18:28:53Z",
+                    "open_issues": 0,
                     "owner": "orsinium-labs",
                     "repo": "tinytest",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "assert",
+                      "assertions",
+                      "framework",
+                      "generics",
+                      "go",
+                      "golang",
+                      "test",
+                      "testify",
+                      "testing",
+                      "tinygo"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -355,12 +613,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "File Allocation Table implementation (FAT32+exFAT)",
+                    "homepage": null,
                     "id": 745298080,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-13T03:49:59Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "fat",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -371,12 +634,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "bouncer is a button input handler library supporting press-lengths of different durations, and debouncing",
+                    "homepage": null,
                     "id": 523484230,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-06-21T17:28:16Z",
+                    "open_issues": 1,
                     "owner": "eyelight",
                     "repo": "bouncer",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -387,12 +655,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Action scheduling using event loops.",
+                    "homepage": null,
                     "id": 690307014,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-10-08T21:13:36Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "schedule",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -410,12 +683,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mavlink library (2.0 and 1.0) for the Go programming language",
+                    "homepage": null,
                     "id": 175249826,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T05:02:32Z",
+                    "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "golang-library",
+                      "mavlink",
+                      "mavlink-library",
+                      "mavlink-protocol",
+                      "mavlink-proxy",
+                      "quadcopter",
+                      "uav",
+                      "ugv"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -426,12 +715,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Go implementation of the quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber).",
+                    "homepage": "https://filippo.io/mlkem768",
                     "id": 712940006,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-02-14T14:15:27Z",
+                    "open_issues": 0,
                     "owner": "FiloSottile",
                     "repo": "mlkem768",
-                    "stars": 192
+                    "stars": 192,
+                    "topics": [
+                      "cryptography",
+                      "kyber",
+                      "ml-kem",
+                      "pqc"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -442,12 +741,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A dead-simple, extensible MQTT implementation well suited for embedded systems. ",
+                    "homepage": null,
                     "id": 574768489,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-07-06T17:15:19Z",
+                    "open_issues": 2,
                     "owner": "soypat",
                     "repo": "natiu-mqtt",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": [
+                      "embedded",
+                      "embedded-systems",
+                      "go",
+                      "golang",
+                      "iot",
+                      "mqtt",
+                      "mqtt-client",
+                      "mqtt-embedded",
+                      "mqtt-protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -458,12 +772,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Userspace networking in Go. Superceded by soypat/lneto",
+                    "homepage": null,
                     "id": 717756043,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-01-25T14:08:38Z",
+                    "open_issues": 12,
                     "owner": "soypat",
                     "repo": "seqs",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "embedded",
+                      "embedded-systems",
+                      "ethernet",
+                      "go",
+                      "golang",
+                      "heapless",
+                      "ip",
+                      "operating-systems",
+                      "tcp",
+                      "tcp-ip",
+                      "tinygo",
+                      "udp",
+                      "userspace-networking"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -474,12 +807,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "little websocket implementation",
+                    "homepage": null,
                     "id": 581813395,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-01-22T15:20:17Z",
+                    "open_issues": 1,
                     "owner": "soypat",
                     "repo": "peasocket",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "embedded",
+                      "embedded-systems",
+                      "go",
+                      "golang",
+                      "websocket",
+                      "websocket-client",
+                      "websocket-protocol",
+                      "websocket-server",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -490,12 +838,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Low level Ethernet stack marshaller/unmarshaller for use in tiny places.",
+                    "homepage": null,
                     "id": 380609059,
                     "language": "Go",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-12-27T23:11:50Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "ether-swtch",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -506,12 +859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fault tolerant, TCP modbus implementation in Go that just works. Apt for embedded systems.",
+                    "homepage": null,
                     "id": 587923872,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-11-07T03:30:11Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "peamodbus",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -522,12 +880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minimal package for creating and parsing BTHome service data using Go/TinyGo.",
+                    "homepage": null,
                     "id": 912341011,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2025-01-07T06:34:30Z",
+                    "open_issues": 0,
                     "owner": "hybridgroup",
                     "repo": "go-bthome",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -538,12 +901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CayenneLPP in Go",
+                    "homepage": null,
                     "id": 87004762,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-10-12T09:10:35Z",
+                    "open_issues": 1,
                     "owner": "TheThingsNetwork",
                     "repo": "go-cayenne-lib",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -554,12 +922,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple Point-to-Point Protocol implementation written in Go.",
+                    "homepage": null,
                     "id": 574257725,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-12-04T22:44:00Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "tiny-sproto",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "modbus",
+                      "point-to-point",
+                      "ppp",
+                      "pppoe",
+                      "raspberry-pi",
+                      "rs-232",
+                      "rs-485",
+                      "serial",
+                      "uart"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -570,12 +953,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go port of libcanard. WIP.",
+                    "homepage": null,
                     "id": 516616061,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-08-21T20:20:33Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "go-canard",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -586,12 +974,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tiny protocol proof of concept for embedded systems.",
+                    "homepage": null,
                     "id": 560099943,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2022-11-04T21:07:33Z",
+                    "open_issues": 0,
                     "owner": "soypat",
                     "repo": "achicken",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -609,12 +1002,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Industrial control systems in Go",
+                    "homepage": null,
                     "id": 226439818,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-09-10T20:16:37Z",
+                    "open_issues": 1,
                     "owner": "brandondube",
                     "repo": "pctl",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "biquad",
+                      "biquads",
+                      "control-shaping",
+                      "control-systems",
+                      "high-pass-filter",
+                      "low-pass-filter",
+                      "pid",
+                      "single-pole-filters",
+                      "state-space"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -625,12 +1033,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sensor fusion algorithms (gyroscope/accelerometer) implemented in pure Go.",
+                    "homepage": null,
                     "id": 196746087,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-07-13T19:54:51Z",
+                    "open_issues": 1,
                     "owner": "aykevl",
                     "repo": "fusion",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -641,12 +1054,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(Magical) Magnetometer Calibration",
+                    "homepage": null,
                     "id": 429214885,
                     "language": "Go",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-11-29T23:41:41Z",
+                    "open_issues": 2,
                     "owner": "ysoldak",
                     "repo": "magcal",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -669,12 +1087,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get JSON values quickly - JSON parser for Go",
+                "homepage": null,
                 "id": 65434192,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:18:08Z",
+                "open_issues": 99,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15556
+                "stars": 15557,
+                "topics": [
+                  "golang",
+                  "json",
+                  "json-parser"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -685,12 +1112,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast JSON serializer for golang.",
+                "homepage": null,
                 "id": 52589524,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-14T14:52:53Z",
+                "open_issues": 99,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4916
+                "stars": 4916,
+                "topics": [
+                  "code-generation",
+                  "golang",
+                  "json",
+                  "json-parser",
+                  "json-serialization",
+                  "perfomance"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -701,12 +1140,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ A blazing fast and safe Go package for serializing JSON",
+                "homepage": null,
                 "id": 881774714,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-11-20T13:42:54Z",
+                "open_issues": 0,
                 "owner": "orsinium-labs",
                 "repo": "jsony",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "encoder",
+                  "encoding",
+                  "go",
+                  "golang",
+                  "json",
+                  "json-serialization",
+                  "serialization",
+                  "serializer"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -717,12 +1170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reflection-free Protobuf for Go.",
+                "homepage": null,
                 "id": 784951910,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T12:48:00Z",
+                "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -740,12 +1198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Koebiten is a 2D game engine that runs on TinyGo. It’s inspired by Ebitengine and is characterized by its simple API.",
+                "homepage": "https://sago35.github.io/koebiten/",
                 "id": 850146321,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-26T11:13:21Z",
+                "open_issues": 0,
                 "owner": "sago35",
                 "repo": "koebiten",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -756,12 +1219,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools and helpers for developing GBA programs using TinyGo.",
+                "homepage": "https://tinygo.org",
                 "id": 228088137,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-22T08:48:41Z",
+                "open_issues": 3,
                 "owner": "tinygo-org",
                 "repo": "tinygba",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "gameboy-advance",
+                  "golang",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -772,12 +1244,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for making WASM-4 games with Go (and TinyGo).",
+                "homepage": null,
                 "id": 758039892,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-29T16:13:56Z",
+                "open_issues": 0,
                 "owner": "orsinium-labs",
                 "repo": "wasm4go",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "emulator",
+                  "framework",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "games",
+                  "go",
+                  "golang",
+                  "tinygo",
+                  "wasm",
+                  "wasm4",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -788,12 +1278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a flappy bird clone for the GBA",
+                "homepage": null,
                 "id": 586335865,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-09-02T04:53:17Z",
+                "open_issues": 3,
                 "owner": "bjatkin",
                 "repo": "flappy-boot",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -804,12 +1299,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "libnx wrapper for tinygo",
+                "homepage": null,
                 "id": 263484699,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-01-03T08:31:40Z",
+                "open_issues": 0,
                 "owner": "racerxdl",
                 "repo": "gonx",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "golang",
+                  "homebrew",
+                  "libnx",
+                  "nintendo",
+                  "nintendo-switch",
+                  "switch",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -820,12 +1328,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏃 Go SDK for making Firefly Zero games",
+                "homepage": null,
                 "id": 795387108,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T08:22:42Z",
+                "open_issues": 0,
                 "owner": "firefly-zero",
                 "repo": "firefly-go",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "firefly-zero",
+                  "gamedev",
+                  "go",
+                  "golang",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -836,12 +1355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fun package for creating roguelike games with TinyGo on Firefly Zero using WASM",
+                "homepage": "https://fireflyzero.com/",
                 "id": 907423492,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-04T13:31:29Z",
+                "open_issues": 0,
                 "owner": "deadprogram",
                 "repo": "tinyrogue",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -852,12 +1376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple roguelike game written using TinyGo with TinyRogue on Firefly Zero",
+                "homepage": "https://fireflyzero.com/",
                 "id": 909658065,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-26T12:49:45Z",
+                "open_issues": 1,
                 "owner": "deadprogram",
                 "repo": "ghost-castle",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -868,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Go experiments for the Raspberry Pi RP2040 MCU",
+                "homepage": null,
                 "id": 679609225,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-06T12:33:58Z",
+                "open_issues": 0,
                 "owner": "smittytone",
                 "repo": "pi-pico-go",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -893,12 +1427,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TinyGo compatible DOM manipulation library. For use in WASM",
+                    "homepage": null,
                     "id": 344579076,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-08-04T13:03:21Z",
+                    "open_issues": 0,
                     "owner": "Nerzal",
                     "repo": "tinydom",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "dom",
+                      "go",
+                      "tinygo",
+                      "wasm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -909,12 +1453,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An experimental web framework for creating user interfaces",
+                    "homepage": null,
                     "id": 635502695,
                     "language": "Go",
+                    "license": null,
                     "last_commit": "2024-01-30T21:37:25Z",
+                    "open_issues": 1,
                     "owner": "goui-org",
                     "repo": "goui",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "golang",
+                      "ui",
+                      "web-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -932,12 +1485,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TinyWebSocket is a lib that wraps the syscall/js api to provide a better developer experience. Compileable by TinyGo",
+                    "homepage": null,
                     "id": 344947164,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-05T22:16:37Z",
+                    "open_issues": 0,
                     "owner": "Nerzal",
                     "repo": "tinywebsocket",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "go",
+                      "golang",
+                      "tinygo",
+                      "wasm",
+                      "websockets"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -955,12 +1519,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebAssembly, WASI, and Component Model tools for Go",
+                    "homepage": "https://go.bytecodealliance.org",
                     "id": 683183284,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-28T15:03:32Z",
+                    "open_issues": 38,
                     "owner": "bytecodealliance",
                     "repo": "go-modules",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": [
+                      "component-model",
+                      "go",
+                      "golang",
+                      "wasi",
+                      "wasm",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -971,12 +1547,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go library to define type-safe host functions in wazero and other WebAssembly runtimes.",
+                    "homepage": "https://pkg.go.dev/github.com/orsinium-labs/wypes",
                     "id": 766064291,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-10-03T06:53:25Z",
+                    "open_issues": 0,
                     "owner": "orsinium-labs",
                     "repo": "wypes",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "generics",
+                      "go",
+                      "golang",
+                      "tinygo",
+                      "wasm",
+                      "wazero",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 },
@@ -987,12 +1576,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go bindings for wasmCV computer vision interfaces using WebAssembly. This package is generated.",
+                    "homepage": "http://wasmcv.org",
                     "id": 858209964,
                     "language": "Assembly",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-13T08:22:59Z",
+                    "open_issues": 0,
                     "owner": "wasmvision",
                     "repo": "go-wasmcv",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "computer-vision",
+                      "golang",
+                      "opencv",
+                      "tinygo",
+                      "wasi",
+                      "wasm",
+                      "wasmcv"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
                 }
@@ -1015,12 +1617,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI",
+                "homepage": "https://tinygo.org",
                 "id": 189875241,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T03:19:53Z",
+                "open_issues": 129,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 994
+                "stars": 994,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "central",
+                  "linux",
+                  "macos",
+                  "nordicsemi",
+                  "peripheral",
+                  "softdevice",
+                  "tinygo"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             },
@@ -1031,12 +1649,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
+                "homepage": "https://tinygo.org",
                 "id": 157855967,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T14:51:30Z",
+                "open_issues": 155,
                 "owner": "tinygo-org",
                 "repo": "drivers",
-                "stars": 746
+                "stars": 747,
+                "topics": [
+                  "adxl345",
+                  "apa102",
+                  "blinkm",
+                  "bmp180",
+                  "dotstar",
+                  "ds3231",
+                  "embedded",
+                  "esp8266",
+                  "gpio",
+                  "hacktoberfest",
+                  "i2c",
+                  "lorawan",
+                  "mag3110",
+                  "mma8653",
+                  "mpu6050",
+                  "neopixels",
+                  "sensors",
+                  "spi",
+                  "tinygo",
+                  "ws2812"
+                ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
             }
@@ -1058,12 +1702,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track personal Bluetooth devices via Apple's \"Find My\" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!",
+            "homepage": null,
             "id": 914381428,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-08-20T10:31:38Z",
+            "open_issues": 5,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1510
+            "stars": 1510,
+            "topics": [
+              "airtag",
+              "bluetooth",
+              "find-my",
+              "findmy",
+              "golang",
+              "openhaystack",
+              "tinygo"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1074,12 +1731,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wasmVision gets you going with computer vision using WebAssembly.",
+            "homepage": "https://wasmvision.com",
             "id": 857294975,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-16T10:21:03Z",
+            "open_issues": 1,
             "owner": "wasmvision",
             "repo": "wasmvision",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "c-language",
+              "computer-vision",
+              "golang",
+              "opencv",
+              "rust",
+              "tinygo",
+              "wasi",
+              "wasm",
+              "wasmcv",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1090,12 +1763,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "USB HID keyboard firmware for tinygo",
+            "homepage": null,
             "id": 576286637,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-28T12:43:47Z",
+            "open_issues": 11,
             "owner": "sago35",
             "repo": "tinygo-keyboard",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "atsamd21",
+              "atsamd51",
+              "firmware",
+              "go",
+              "golang",
+              "hid",
+              "keeb",
+              "keyboard",
+              "nrf52840",
+              "rp2040",
+              "tinygo",
+              "usb",
+              "usbhid",
+              "vial"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1106,12 +1799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero configuration, auto-calibrating wireless DIY Head Tracker, for Nano 33 BLE and XIAO BLE Sense boards",
+            "homepage": null,
             "id": 331943734,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2026-06-26T14:41:36Z",
+            "open_issues": 6,
             "owner": "ysoldak",
             "repo": "HeadTracker",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1122,12 +1820,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pico balloon floats into the great big world, towing a RP2040 Pico programmed with TinyGo using LoraWAN to communicate along the way.",
+            "homepage": "https://tinyglobo.com",
             "id": 588634217,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-01-29T14:21:25Z",
+            "open_issues": 0,
             "owner": "hybridgroup",
             "repo": "tinyglobo",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "golang",
+              "lorawan",
+              "picoballoon",
+              "rp2040",
+              "thethingsnetwork",
+              "tinygo"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1138,12 +1848,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyGo powered badge using Adafruit Pybadge Hardware",
+            "homepage": null,
             "id": 377182281,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-08-18T20:14:34Z",
+            "open_issues": 3,
             "owner": "tinygo-org",
             "repo": "gobadge",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "adafruit",
+              "badge",
+              "golang",
+              "hacktoberfest",
+              "tinygo"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1154,12 +1875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robotic gopher plushie that you can code using TinyGo.",
+            "homepage": "https://gopherbot.com",
             "id": 176565000,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-15T20:36:15Z",
+            "open_issues": 3,
             "owner": "hybridgroup",
             "repo": "gopherbot",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1170,12 +1896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyGo implementation of Open LED Race",
+            "homepage": null,
             "id": 182312817,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-10-14T07:27:32Z",
+            "open_issues": 0,
             "owner": "conejoninja",
             "repo": "ledrace",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1186,12 +1917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FPV Combat Gadget",
+            "homepage": "https://fpv-combat.com",
             "id": 676074649,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-28T13:14:23Z",
+            "open_issues": 2,
             "owner": "ysoldak",
             "repo": "fpvc-gadget",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1202,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 848288234,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-05T02:50:57Z",
+            "open_issues": 0,
             "owner": "sat0ken",
             "repo": "gopher.pretty",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1218,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of microcontroller projects",
+            "homepage": null,
             "id": 237055751,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-01-13T21:09:22Z",
+            "open_issues": 0,
             "owner": "tinygo-org",
             "repo": "things",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1234,12 +1980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Read ROMs, EPROMs, Flash of older Microcontrollers or Computers",
+            "homepage": null,
             "id": 588770969,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-17T13:46:24Z",
+            "open_issues": 0,
             "owner": "Gustavomurta",
             "repo": "Arduino_Mega_Programmer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1250,12 +2001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 861219409,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-06T03:29:31Z",
+            "open_issues": 0,
             "owner": "sat0ken",
             "repo": "gopher-board",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1266,12 +2022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WS2812 LED strip color and brightness control with two RC PWM channels ",
+            "homepage": null,
             "id": 629699480,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-19T00:50:44Z",
+            "open_issues": 0,
             "owner": "ysoldak",
             "repo": "pwm-ws2812",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         }
@@ -1288,12 +2049,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.",
+            "homepage": "https://u-root.org",
             "id": 46462030,
             "language": "Go",
-            "last_commit": "2026-08-27T04:43:22Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T23:50:02Z",
+            "open_issues": 163,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3068
+            "stars": 3068,
+            "topics": [
+              "busybox",
+              "coreboot",
+              "embedded",
+              "hacktoberfest",
+              "initramfs",
+              "kernel",
+              "linux",
+              "linuxboot",
+              "ramfs",
+              "system",
+              "tinycore"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1304,12 +2082,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CBOR codec (RFC 8949, RFC 8742) with CBOR tags, Go struct tag options (toarray, keyasint, omitempty, omitzero), float64/32/16, big.Int, and fuzz tested. ",
+            "homepage": null,
             "id": 186904487,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:08:06Z",
+            "open_issues": 30,
             "owner": "fxamacker",
             "repo": "cbor",
-            "stars": 1081
+            "stars": 1081,
+            "topics": [
+              "cbor",
+              "cbor-library",
+              "codec",
+              "cose",
+              "cwt",
+              "go",
+              "golang",
+              "json-alternative",
+              "rfc-8742",
+              "rfc-8949",
+              "serialization",
+              "std-94",
+              "tinygo"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1320,12 +2117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Go 3D math library.",
+            "homepage": null,
             "id": 8180452,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-03T22:29:03Z",
+            "open_issues": 9,
             "owner": "go-gl",
             "repo": "mathgl",
-            "stars": 609
+            "stars": 609,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1336,12 +2138,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "float16 provides IEEE 754 half-precision format (binary16) with correct conversions to/from float32",
+            "homepage": null,
             "id": 230667560,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T03:15:36Z",
+            "open_issues": 5,
             "owner": "x448",
             "repo": "float16",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "binary16",
+              "float16",
+              "floating-point",
+              "go",
+              "golang",
+              "half-precision",
+              "ieee754"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1352,12 +2167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A float32 version of Go's math package",
+            "homepage": null,
             "id": 68250885,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-05-15T15:34:03Z",
+            "open_issues": 5,
             "owner": "chewxy",
             "repo": "math32",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1368,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital signal processing package in Go for the discrete wavelet transform (DWT)",
+            "homepage": null,
             "id": 225678276,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-03-14T17:50:35Z",
+            "open_issues": 1,
             "owner": "goccmack",
             "repo": "godsp",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1384,12 +2209,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Go library that provides comprehensive string manipulation, type conversion, formatting, and error handling with a fluid API, specifically designed for small devices and web applications using TinyGo as the target compiler.",
+            "homepage": null,
             "id": 943337093,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:48:25Z",
+            "open_issues": 0,
             "owner": "tinywasm",
             "repo": "fmt",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "fmt",
+              "go",
+              "golang",
+              "number-format",
+              "string-manipulation",
+              "tinygo",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1400,12 +2239,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "linear algebra package. like gonum/mat, but small. lets say gonum-lite",
+            "homepage": null,
             "id": 512470242,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-08T21:41:23Z",
+            "open_issues": 0,
             "owner": "soypat",
             "repo": "lap",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "embedded",
+              "embedded-systems",
+              "go",
+              "golang",
+              "lapack",
+              "linear-algebra",
+              "svd-factorization",
+              "tinygo"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1416,12 +2269,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Total Variation Denoising filter.",
+            "homepage": null,
             "id": 666216535,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-14T01:58:27Z",
+            "open_issues": 0,
             "owner": "soypat",
             "repo": "tvd",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "denoising",
+              "filter",
+              "go",
+              "golang",
+              "noise",
+              "signal-processing",
+              "staircase-effect",
+              "total-variation",
+              "total-variation-denoising",
+              "tvd"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         },
@@ -1432,12 +2301,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serial port abstraction creation for bugst, sers, goburrow and tarm serial libraries.",
+            "homepage": null,
             "id": 655425859,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-11-27T14:28:23Z",
+            "open_issues": 0,
             "owner": "soypat",
             "repo": "cereal",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "go",
+              "golang",
+              "hal",
+              "hardware-abstraction",
+              "serial",
+              "termios"
+            ]
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
         }
@@ -1446,15 +2327,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:34:04.133Z",
+    "last_updated": "2026-08-29T04:56:44.193Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
+      "homepage": null,
       "id": 347229687,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-25T08:38:57Z",
+      "open_issues": 0,
       "owner": "tinygo-org",
       "repo": "awesome-tinygo",
-      "stars": 159
+      "stars": 159,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "go",
+        "golang",
+        "hardware",
+        "tinygo"
+      ]
     },
     "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
     "enhanced_repository": "enhansome/enhansome-tinygo",
