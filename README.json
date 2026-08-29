@@ -1203,7 +1203,7 @@
                 "id": 850146321,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-07-26T11:13:21Z",
+                "last_commit": "2026-08-29T07:15:23Z",
                 "open_issues": 0,
                 "owner": "sago35",
                 "repo": "koebiten",
@@ -1626,7 +1626,7 @@
                 "open_issues": 129,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 994,
+                "stars": 995,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -2058,7 +2058,7 @@
             "open_issues": 163,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3068,
+            "stars": 3069,
             "topics": [
               "busybox",
               "coreboot",
@@ -2327,7 +2327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:44.193Z",
+    "last_updated": "2026-08-29T09:20:58.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",

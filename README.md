@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,561 | 🐛 219 | 🌐 Go | 📅 2026-08-28.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,575 | 🐛 219 | 🌐 Go | 📅 2026-08-29.
 
 **Contributing**:
 
@@ -107,7 +107,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Gaming
 
-* [koebiten](https://github.com/sago35/koebiten) ⭐ 56 | 🐛 0 | 🌐 Go | 📅 2026-07-26 - Koebiten is a 2D game engine that runs on TinyGo. Inspired by Ebitengine and is characterized by its simple API.
+* [koebiten](https://github.com/sago35/koebiten) ⭐ 56 | 🐛 0 | 🌐 Go | 📅 2026-08-29 - Koebiten is a 2D game engine that runs on TinyGo. Inspired by Ebitengine and is characterized by its simple API.
 * [tinygba](https://github.com/tinygo-org/tinygba) ⭐ 36 | 🐛 3 | 🌐 Go | 📅 2026-02-22 - Tools and helpers for developing GBA programs using TinyGo.
 * [wasm4go](https://github.com/orsinium-labs/wasm4go) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2024-03-29 - Framework for making WASM-4 games with Go (and TinyGo).
 * [Flappy Boot](https://github.com/bjatkin/flappy-boot) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2024-09-02 - clone of flappy bird for the GBA written using TinyGo.
@@ -136,7 +136,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Wireless Communication
 
-* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 994 | 🐛 129 | 🌐 C | 📅 2026-08-26 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
+* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 995 | 🐛 129 | 🌐 C | 📅 2026-08-26 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
 * [lorawan](https://github.com/tinygo-org/drivers/tree/release/lora/lorawan) ⭐ 747 | 🐛 155 | 🌐 Go | 📅 2026-08-21 - LoRaWAN implementation for embedded devices using TinyGo.
 
 # Awesome TinyGo Creations
@@ -162,7 +162,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,068 | 🐛 163 | 🌐 Go | 📅 2026-08-28 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,069 | 🐛 163 | 🌐 Go | 📅 2026-08-28 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
 * [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,081 | 🐛 30 | 🌐 Go | 📅 2026-08-28 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 99 | 🐛 5 | 🌐 Go | 📅 2026-08-23 - IEEE 754 half-precision floating-point format (binary16) library.
