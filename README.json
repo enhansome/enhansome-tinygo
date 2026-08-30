@@ -1096,7 +1096,7 @@
                 "open_issues": 99,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15557,
+                "stars": 15558,
                 "topics": [
                   "golang",
                   "json",
@@ -1175,7 +1175,7 @@
                 "id": 784951910,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T12:48:00Z",
+                "last_commit": "2026-08-30T05:24:39Z",
                 "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
@@ -2054,8 +2054,8 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T23:50:02Z",
-            "open_issues": 163,
+            "last_commit": "2026-08-30T03:08:09Z",
+            "open_issues": 162,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3069,
@@ -2087,8 +2087,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:08:06Z",
-            "open_issues": 30,
+            "last_commit": "2026-08-30T00:01:10Z",
+            "open_issues": 31,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1081,
@@ -2327,7 +2327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:20:58.402Z",
+    "last_updated": "2026-08-30T08:31:15.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
