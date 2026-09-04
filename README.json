@@ -750,7 +750,7 @@
                     "open_issues": 2,
                     "owner": "soypat",
                     "repo": "natiu-mqtt",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": [
                       "embedded",
                       "embedded-systems",
@@ -1096,7 +1096,7 @@
                 "open_issues": 99,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15559,
+                "stars": 15560,
                 "topics": [
                   "golang",
                   "json",
@@ -1626,7 +1626,7 @@
                 "open_issues": 124,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 995,
+                "stars": 996,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1718,7 +1718,7 @@
             "open_issues": 5,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1509,
+            "stars": 1510,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2061,11 +2061,11 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T16:48:04Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-04T06:53:05Z",
+            "open_issues": 165,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3070,
+            "stars": 3069,
             "topics": [
               "busybox",
               "coreboot",
@@ -2334,7 +2334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:21:38.466Z",
+    "last_updated": "2026-09-04T07:24:10.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
