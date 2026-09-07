@@ -358,7 +358,7 @@
                     "open_issues": 156,
                     "owner": "tinygo-org",
                     "repo": "drivers",
-                    "stars": 747,
+                    "stars": 748,
                     "topics": [
                       "adxl345",
                       "apa102",
@@ -622,7 +622,7 @@
                     "open_issues": 0,
                     "owner": "soypat",
                     "repo": "fat",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:04.133Z"
@@ -1096,7 +1096,7 @@
                 "open_issues": 100,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15558,
+                "stars": 15559,
                 "topics": [
                   "golang",
                   "json",
@@ -1626,7 +1626,7 @@
                 "open_issues": 124,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 1003,
+                "stars": 1004,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1665,7 +1665,7 @@
                 "open_issues": 156,
                 "owner": "tinygo-org",
                 "repo": "drivers",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "adxl345",
                   "apa102",
@@ -2062,10 +2062,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-06T03:41:39Z",
-            "open_issues": 164,
+            "open_issues": 168,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3069,
+            "stars": 3070,
             "topics": [
               "busybox",
               "coreboot",
@@ -2334,7 +2334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:17:07.897Z",
+    "last_updated": "2026-09-07T07:31:18.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
