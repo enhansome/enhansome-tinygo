@@ -1096,7 +1096,7 @@
                 "open_issues": 101,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15559,
+                "stars": 15558,
                 "topics": [
                   "golang",
                   "json",
@@ -1121,7 +1121,7 @@
                 "open_issues": 99,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4915,
+                "stars": 4916,
                 "topics": [
                   "code-generation",
                   "golang",
@@ -1821,7 +1821,7 @@
             "open_issues": 6,
             "owner": "ysoldak",
             "repo": "HeadTracker",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2067,11 +2067,11 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-13T07:27:36Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-14T01:40:31Z",
+            "open_issues": 161,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3073,
+            "stars": 3074,
             "topics": [
               "busybox",
               "coreboot",
@@ -2104,7 +2104,7 @@
             "open_issues": 28,
             "owner": "fxamacker",
             "repo": "cbor",
-            "stars": 1088,
+            "stars": 1089,
             "topics": [
               "cbor",
               "cbor-library",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:38:19.291Z",
+    "last_updated": "2026-09-14T08:05:35.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
@@ -2352,7 +2352,7 @@
       "open_issues": 0,
       "owner": "tinygo-org",
       "repo": "awesome-tinygo",
-      "stars": 161,
+      "stars": 162,
       "topics": [
         "awesome",
         "awesome-list",
