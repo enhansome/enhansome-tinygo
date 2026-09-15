@@ -191,7 +191,7 @@
                 "open_issues": 6,
                 "owner": "tinygo-org",
                 "repo": "tinyfont",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "adafruit",
                   "arduino",
@@ -724,7 +724,7 @@
                     "open_issues": 0,
                     "owner": "FiloSottile",
                     "repo": "mlkem768",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": [
                       "cryptography",
                       "kyber",
@@ -1093,10 +1093,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-28T00:18:08Z",
-                "open_issues": 101,
+                "open_issues": 100,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15558,
+                "stars": 15557,
                 "topics": [
                   "golang",
                   "json",
@@ -1121,7 +1121,7 @@
                 "open_issues": 99,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4916,
+                "stars": 4917,
                 "topics": [
                   "code-generation",
                   "golang",
@@ -1622,11 +1622,11 @@
                 "id": 189875241,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T19:32:56Z",
-                "open_issues": 126,
+                "last_commit": "2026-09-14T09:32:09Z",
+                "open_issues": 125,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 1005,
+                "stars": 1004,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1714,7 +1714,7 @@
             "id": 914381428,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:21:34Z",
+            "last_commit": "2026-09-14T10:32:49Z",
             "open_issues": 2,
             "owner": "hybridgroup",
             "repo": "go-haystack",
@@ -1960,7 +1960,7 @@
             "open_issues": 0,
             "owner": "sat0ken",
             "repo": "gopher.pretty",
-            "stars": 5,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2067,11 +2067,11 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T01:40:31Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-15T04:34:42Z",
+            "open_issues": 160,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3074,
+            "stars": 3073,
             "topics": [
               "busybox",
               "coreboot",
@@ -2100,8 +2100,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-04T12:06:28Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-14T17:21:36Z",
+            "open_issues": 30,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1089,
@@ -2139,7 +2139,7 @@
             "open_issues": 9,
             "owner": "go-gl",
             "repo": "mathgl",
-            "stars": 609,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:05:35.367Z",
+    "last_updated": "2026-09-15T08:00:04.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
