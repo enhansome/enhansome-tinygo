@@ -537,7 +537,7 @@
                     "language": "Go",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-12T06:56:00Z",
-                    "open_issues": 12,
+                    "open_issues": 11,
                     "owner": "tinygo-org",
                     "repo": "pio",
                     "stars": 51,
@@ -1121,7 +1121,7 @@
                 "open_issues": 99,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4917,
+                "stars": 4918,
                 "topics": [
                   "code-generation",
                   "golang",
@@ -1179,7 +1179,7 @@
                 "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
@@ -1207,7 +1207,7 @@
                 "open_issues": 0,
                 "owner": "sago35",
                 "repo": "koebiten",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
@@ -1622,7 +1622,7 @@
                 "id": 189875241,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T09:32:09Z",
+                "last_commit": "2026-09-15T09:42:38Z",
                 "open_issues": 125,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
@@ -1718,7 +1718,7 @@
             "open_issues": 2,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "airtag",
               "bluetooth",
@@ -1750,10 +1750,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-02-16T10:21:03Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "wasmvision",
             "repo": "wasmvision",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "c-language",
               "computer-vision",
@@ -2100,8 +2100,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T17:21:36Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-15T14:22:21Z",
+            "open_issues": 28,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1089,
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:00:04.872Z",
+    "last_updated": "2026-09-16T07:53:17.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
