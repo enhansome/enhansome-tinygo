@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T05:01:57Z",
+                    "last_commit": "2026-09-17T05:02:00Z",
                     "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1011,7 +1011,7 @@
                     "open_issues": 1,
                     "owner": "brandondube",
                     "repo": "pctl",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": [
                       "biquad",
                       "biquads",
@@ -1121,7 +1121,7 @@
                 "open_issues": 99,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4918,
+                "stars": 4917,
                 "topics": [
                   "code-generation",
                   "golang",
@@ -1436,7 +1436,7 @@
                     "open_issues": 0,
                     "owner": "Nerzal",
                     "repo": "tinydom",
-                    "stars": 23,
+                    "stars": 22,
                     "topics": [
                       "dom",
                       "go",
@@ -1622,8 +1622,8 @@
                 "id": 189875241,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T09:42:38Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-16T20:51:51Z",
+                "open_issues": 126,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
                 "stars": 1004,
@@ -2100,8 +2100,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:22:21Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-16T15:21:19Z",
+            "open_issues": 29,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1089,
@@ -2139,7 +2139,7 @@
             "open_issues": 9,
             "owner": "go-gl",
             "repo": "mathgl",
-            "stars": 610,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2261,7 +2261,7 @@
             "open_issues": 0,
             "owner": "soypat",
             "repo": "lap",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "embedded",
               "embedded-systems",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:53:17.051Z",
+    "last_updated": "2026-09-17T07:57:32.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
