@@ -1175,7 +1175,7 @@
                 "id": 784951910,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T22:05:55Z",
+                "last_commit": "2026-09-18T18:54:14Z",
                 "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
@@ -1718,7 +1718,7 @@
             "open_issues": 2,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2100,8 +2100,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T14:05:47Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-18T13:43:32Z",
+            "open_issues": 28,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1089,
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:35:43.894Z",
+    "last_updated": "2026-09-19T07:30:55.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
