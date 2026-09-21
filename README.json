@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T05:02:00Z",
+                    "last_commit": "2026-09-21T05:00:26Z",
                     "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1096,7 +1096,7 @@
                 "open_issues": 100,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15554,
+                "stars": 15555,
                 "topics": [
                   "golang",
                   "json",
@@ -1626,7 +1626,7 @@
                 "open_issues": 127,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 1005,
+                "stars": 1006,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1785,7 +1785,7 @@
             "open_issues": 11,
             "owner": "sago35",
             "repo": "tinygo-keyboard",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "atsamd21",
               "atsamd51",
@@ -1821,7 +1821,7 @@
             "open_issues": 6,
             "owner": "ysoldak",
             "repo": "HeadTracker",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2067,11 +2067,11 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T04:34:42Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-20T16:58:01Z",
+            "open_issues": 160,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3074,
+            "stars": 3075,
             "topics": [
               "busybox",
               "coreboot",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:54:21.759Z",
+    "last_updated": "2026-09-21T08:10:50.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
