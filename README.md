@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,651 | 🐛 234 | 🌐 Go | 📅 2026-10-03.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,672 | 🐛 234 | 🌐 Go | 📅 2026-10-03.
 
 **Contributing**:
 
@@ -162,7 +162,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 158 | 🌐 Go | 📅 2026-10-02 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 160 | 🌐 Go | 📅 2026-10-02 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
 * [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,093 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 100 | 🐛 5 | 🌐 Go | 📅 2026-08-23 - IEEE 754 half-precision floating-point format (binary16) library.

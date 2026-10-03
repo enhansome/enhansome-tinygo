@@ -2068,7 +2068,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T19:08:25Z",
-            "open_issues": 158,
+            "open_issues": 160,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3077,
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:39.096Z",
+    "last_updated": "2026-10-03T08:31:38.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
