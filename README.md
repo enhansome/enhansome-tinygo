@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,672 | 🐛 234 | 🌐 Go | 📅 2026-10-03.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 186,831 | 🐛 88 | 🌐 Go | 📅 2026-10-04.
 
 **Contributing**:
 
@@ -100,10 +100,10 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Encoders
 
-* [gjson](https://github.com/tidwall/gjson) ⭐ 15,559 | 🐛 101 | 🌐 Go | 📅 2026-10-03 - Get JSON values quickly - JSON parser for Go
+* [gjson](https://github.com/tidwall/gjson) ⭐ 15,558 | 🐛 101 | 🌐 Go | 📅 2026-10-03 - Get JSON values quickly - JSON parser for Go
 * [easyjson](https://github.com/mailru/easyjson) ⭐ 4,916 | 🐛 100 | 🌐 Go | 📅 2026-03-14 - Fast JSON serializer for golang.
 * [jsony](https://github.com/orsinium-labs/jsony) ⭐ 174 | 🐛 0 | 🌐 Go | 📅 2025-11-20 - A blazing fast and safe Go package for serializing JSON
-* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2026-09-28 - Reflection-free Protobuf for Go.
+* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2026-10-04 - Reflection-free Protobuf for Go.
 
 ## Gaming
 
@@ -143,7 +143,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Hardware and software implementations**
 
-* [go-haystack](https://github.com/hybridgroup/go-haystack) ⭐ 1,520 | 🐛 2 | 🌐 Go | 📅 2026-09-14 - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+* [go-haystack](https://github.com/hybridgroup/go-haystack) ⭐ 1,521 | 🐛 2 | 🌐 Go | 📅 2026-09-14 - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 * [wasmVision](https://github.com/wasmvision/wasmvision) ⭐ 247 | 🐛 2 | 🌐 Go | 📅 2026-02-16 - wasmVision gets you going with computer vision using WebAssembly with processors written using TinyGo/Rust/C.
 * [USB HID Keyboard firmware for TinyGo](https://github.com/sago35/tinygo-keyboard) ⭐ 119 | 🐛 14 | 🌐 Go | 📅 2026-09-26 - keyboard firmware for tinygo
 * [HeadTracker](https://github.com/ysoldak/HeadTracker) ⭐ 116 | 🐛 6 | 🌐 Go | 📅 2026-06-26 - Bluetooth DIY Head Tracker, for Nano 33 BLE and XIAO BLE Sense boards.
@@ -162,7 +162,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 160 | 🌐 Go | 📅 2026-10-02 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 162 | 🌐 Go | 📅 2026-10-02 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
 * [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,093 | 🐛 33 | 🌐 Go | 📅 2026-10-02 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 100 | 🐛 5 | 🌐 Go | 📅 2026-08-23 - IEEE 754 half-precision floating-point format (binary16) library.
@@ -187,4 +187,4 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
