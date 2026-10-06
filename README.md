@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,168 | 🐛 67 | 🌐 Go | 📅 2026-10-06.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,182 | 🐛 67 | 🌐 Go | 📅 2026-10-06.
 
 **Contributing**:
 
