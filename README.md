@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,476 | 🐛 67 | 🌐 Go | 📅 2026-10-08.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,469 | 🐛 64 | 🌐 Go | 📅 2026-10-09.
 
 **Contributing**:
 
@@ -79,7 +79,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### Protocol implementations
 
-* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 196 | 🐛 0 | 🌐 Go | 📅 2026-10-01 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
+* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 196 | 🐛 0 | 🌐 Go | 📅 2026-10-09 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
 * [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 194 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
 * [natiu-mqtt](https://github.com/soypat/natiu-mqtt) ⭐ 106 | 🐛 2 | 🌐 Go | 📅 2026-07-06 - A dead-simple, extensible MQTT implementation well suited for embedded systems.
 * [seqs](https://github.com/soypat/seqs) ⚠️ Archived - Networking library for use on microcontrollers. Basically a more featureful LWIP.
@@ -100,10 +100,10 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Encoders
 
-* [gjson](https://github.com/tidwall/gjson) ⭐ 15,558 | 🐛 101 | 🌐 Go | 📅 2026-10-05 - Get JSON values quickly - JSON parser for Go
-* [easyjson](https://github.com/mailru/easyjson) ⭐ 4,915 | 🐛 100 | 🌐 Go | 📅 2026-03-14 - Fast JSON serializer for golang.
+* [gjson](https://github.com/tidwall/gjson) ⭐ 15,555 | 🐛 101 | 🌐 Go | 📅 2026-10-05 - Get JSON values quickly - JSON parser for Go
+* [easyjson](https://github.com/mailru/easyjson) ⭐ 4,914 | 🐛 100 | 🌐 Go | 📅 2026-03-14 - Fast JSON serializer for golang.
 * [jsony](https://github.com/orsinium-labs/jsony) ⭐ 174 | 🐛 0 | 🌐 Go | 📅 2025-11-20 - A blazing fast and safe Go package for serializing JSON
-* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2026-10-07 - Reflection-free Protobuf for Go.
+* [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2026-10-08 - Reflection-free Protobuf for Go.
 
 ## Gaming
 
@@ -162,8 +162,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 159 | 🌐 Go | 📅 2026-10-07 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
-* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,093 | 🐛 34 | 🌐 Go | 📅 2026-10-08 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,077 | 🐛 160 | 🌐 Go | 📅 2026-10-08 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,093 | 🐛 33 | 🌐 Go | 📅 2026-10-08 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 100 | 🐛 5 | 🌐 Go | 📅 2026-08-23 - IEEE 754 half-precision floating-point format (binary16) library.
 * [`math32`](https://github.com/chewxy/math32) ⭐ 86 | 🐛 6 | 🌐 Go | 📅 2026-09-29 - 32bit math functions in pure Go.
@@ -183,8 +183,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### Tutorials
 
-* [Blinky tutorial](https://github.com/tinygo-org/tinygo-site/blob/379c887947063e08bc9547a034b7ced68ab30628/content/getting-started/blinky.md) ⭐ 70 | 🐛 51 | 🌐 HTML | 📅 2026-09-26 - A tutorial to get familiar with TinyGo basics.
+* [Blinky tutorial](https://github.com/tinygo-org/tinygo-site/blob/379c887947063e08bc9547a034b7ced68ab30628/content/getting-started/blinky.md) ⭐ 70 | 🐛 52 | 🌐 HTML | 📅 2026-09-26 - A tutorial to get familiar with TinyGo basics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
