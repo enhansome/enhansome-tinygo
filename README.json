@@ -1096,7 +1096,7 @@
                 "open_issues": 100,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15557,
+                "stars": 15556,
                 "topics": [
                   "golang",
                   "json",
@@ -1622,8 +1622,8 @@
                 "id": 189875241,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T18:38:45Z",
-                "open_issues": 128,
+                "last_commit": "2026-10-15T04:06:23Z",
+                "open_issues": 130,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
                 "stars": 1020,
@@ -1718,7 +1718,7 @@
             "open_issues": 3,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1526,
+            "stars": 1529,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2067,8 +2067,8 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T11:53:02Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-14T22:35:41Z",
+            "open_issues": 163,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3079,
@@ -2100,7 +2100,7 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T12:05:19Z",
+            "last_commit": "2026-10-14T16:30:07Z",
             "open_issues": 32,
             "owner": "fxamacker",
             "repo": "cbor",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T07:59:03.829Z",
+    "last_updated": "2026-10-15T07:42:27.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
