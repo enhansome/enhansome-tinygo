@@ -270,7 +270,7 @@
                 "open_issues": 4,
                 "owner": "aykevl",
                 "repo": "tinygl",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T04:01:28Z",
+                    "last_commit": "2026-10-18T04:01:32Z",
                     "open_issues": 1,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1096,7 +1096,7 @@
                 "open_issues": 100,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15558,
+                "stars": 15559,
                 "topics": [
                   "golang",
                   "json",
@@ -1175,7 +1175,7 @@
                 "id": 784951910,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-16T22:17:38Z",
+                "last_commit": "2026-10-18T05:46:21Z",
                 "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
@@ -1622,8 +1622,8 @@
                 "id": 189875241,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T15:28:36Z",
-                "open_issues": 131,
+                "last_commit": "2026-10-17T20:34:24Z",
+                "open_issues": 113,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
                 "stars": 1020,
@@ -2071,7 +2071,7 @@
             "open_issues": 163,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3079,
+            "stars": 3080,
             "topics": [
               "busybox",
               "coreboot",
@@ -2100,7 +2100,7 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T22:23:14Z",
+            "last_commit": "2026-10-17T19:14:26Z",
             "open_issues": 33,
             "owner": "fxamacker",
             "repo": "cbor",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:10:00.202Z",
+    "last_updated": "2026-10-18T07:24:10.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
