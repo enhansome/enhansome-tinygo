@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,096 | 🐛 97 | 🌐 Go | 📅 2026-10-26.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,263 | 🐛 95 | 🌐 Go | 📅 2026-10-30.
 
 **Contributing**:
 
@@ -64,7 +64,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### General use
 
-* [TinyGo Drivers](https://github.com/tinygo-org/drivers) ⭐ 757 | 🐛 167 | 🌐 Go | 📅 2026-10-28 - Provides a collection of hardware drivers for devices such as sensors and displays that can be used together with TinyGo.
+* [TinyGo Drivers](https://github.com/tinygo-org/drivers) ⭐ 757 | 🐛 168 | 🌐 Go | 📅 2026-10-28 - Provides a collection of hardware drivers for devices such as sensors and displays that can be used together with TinyGo.
 * [mm-go](https://github.com/joetifa2003/mm-go) ⭐ 195 | 🐛 1 | 🌐 Go | 📅 2025-01-05 - Generic manual memory management for golang.
 * [periph/devices](https://github.com/periph/devices) ⭐ 114 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - Device drivers.
 * [tinymath](https://github.com/orsinium-labs/tinymath) ⭐ 101 | 🐛 0 | 🌐 Go | 📅 2026-10-19 - The fastest and smallest Go math library for constrained environments, like microcontrollers or WebAssembly.
@@ -100,7 +100,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Encoders
 
-* [gjson](https://github.com/tidwall/gjson) ⭐ 15,553 | 🐛 100 | 🌐 Go | 📅 2026-10-05 - Get JSON values quickly - JSON parser for Go
+* [gjson](https://github.com/tidwall/gjson) ⭐ 15,555 | 🐛 100 | 🌐 Go | 📅 2026-10-05 - Get JSON values quickly - JSON parser for Go
 * [easyjson](https://github.com/mailru/easyjson) ⭐ 4,916 | 🐛 100 | 🌐 Go | 📅 2026-03-14 - Fast JSON serializer for golang.
 * [jsony](https://github.com/orsinium-labs/jsony) ⭐ 174 | 🐛 0 | 🌐 Go | 📅 2025-11-20 - A blazing fast and safe Go package for serializing JSON
 * [protobuf-go-lite](https://github.com/aperturerobotics/protobuf-go-lite) ⭐ 65 | 🐛 1 | 🌐 Go | 📅 2026-10-30 - Reflection-free Protobuf for Go.
@@ -112,7 +112,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 * [wasm4go](https://github.com/orsinium-labs/wasm4go) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2024-03-29 - Framework for making WASM-4 games with Go (and TinyGo).
 * [Flappy Boot](https://github.com/bjatkin/flappy-boot) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2024-09-02 - clone of flappy bird for the GBA written using TinyGo.
 * [gonx](https://github.com/racerxdl/gonx) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2021-01-03 - Wrapper around libnx for developing Nintendo Switch programs using TinyGo.
-* [firefly-go](https://github.com/firefly-zero/firefly-go) ⭐ 18 | 🐛 1 | 🌐 Go | 📅 2026-10-29 - Go SDK for making Firefly Zero games
+* [firefly-go](https://github.com/firefly-zero/firefly-go) ⭐ 18 | 🐛 1 | 🌐 Go | 📅 2026-10-30 - Go SDK for making Firefly Zero games
 * [tinyrogue](https://github.com/deadprogram/tinyrogue) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2026-04-04 - Fun package for creating roguelike games with TinyGo on Firefly Zero using WASM
 * [ghost-castle](https://github.com/deadprogram/ghost-castle) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2025-12-26 - Simple roguelike game written using TinyGo with TinyRogue on Firefly Zero
 * [Hunt the Wumpus](https://github.com/smittytone/pi-pico-go.git) ⚠️ Archived - Handheld gaming powered by the Raspberry Pi Pico and TinyGo.
@@ -136,8 +136,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Wireless Communication
 
-* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 1,021 | 🐛 111 | 🌐 C | 📅 2026-10-28 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
-* [lorawan](https://github.com/tinygo-org/drivers/tree/release/lora/lorawan) ⭐ 757 | 🐛 167 | 🌐 Go | 📅 2026-10-28 - LoRaWAN implementation for embedded devices using TinyGo.
+* [Go Bluetooth](https://github.com/tinygo-org/bluetooth) ⭐ 1,022 | 🐛 113 | 🌐 C | 📅 2026-10-31 - Go Bluetooth is a cross-platform package for using Bluetooth Low Energy hardware from the Go programming language.
+* [lorawan](https://github.com/tinygo-org/drivers/tree/release/lora/lorawan) ⭐ 757 | 🐛 168 | 🌐 Go | 📅 2026-10-28 - LoRaWAN implementation for embedded devices using TinyGo.
 
 # Awesome TinyGo Creations
 
@@ -162,8 +162,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,082 | 🐛 168 | 🌐 Go | 📅 2026-10-30 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
-* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,102 | 🐛 32 | 🌐 Go | 📅 2026-10-28 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,084 | 🐛 168 | 🌐 Go | 📅 2026-10-31 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,102 | 🐛 31 | 🌐 Go | 📅 2026-10-30 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 609 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 100 | 🐛 4 | 🌐 Go | 📅 2026-10-26 - IEEE 754 half-precision floating-point format (binary16) library.
 * [`math32`](https://github.com/chewxy/math32) ⭐ 86 | 🐛 6 | 🌐 Go | 📅 2026-09-29 - 32bit math functions in pure Go.
@@ -183,8 +183,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### Tutorials
 
-* [Blinky tutorial](https://github.com/tinygo-org/tinygo-site/blob/379c887947063e08bc9547a034b7ced68ab30628/content/getting-started/blinky.md) ⭐ 70 | 🐛 55 | 🌐 HTML | 📅 2026-10-29 - A tutorial to get familiar with TinyGo basics.
+* [Blinky tutorial](https://github.com/tinygo-org/tinygo-site/blob/379c887947063e08bc9547a034b7ced68ab30628/content/getting-started/blinky.md) ⭐ 70 | 🐛 58 | 🌐 HTML | 📅 2026-10-29 - A tutorial to get familiar with TinyGo basics.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
