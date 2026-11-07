@@ -46,7 +46,7 @@
                 "open_issues": 7,
                 "owner": "tinygo-org",
                 "repo": "vscode-tinygo",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
@@ -355,10 +355,10 @@
                     "language": "Go",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-28T17:39:41Z",
-                    "open_issues": 168,
+                    "open_issues": 169,
                     "owner": "tinygo-org",
                     "repo": "drivers",
-                    "stars": 757,
+                    "stars": 756,
                     "topics": [
                       "adxl345",
                       "apa102",
@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T04:01:48Z",
+                    "last_commit": "2026-11-07T05:00:21Z",
                     "open_issues": 1,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1092,11 +1092,11 @@
                 "id": 65434192,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-05T00:27:22Z",
-                "open_issues": 101,
+                "last_commit": "2026-11-06T11:37:56Z",
+                "open_issues": 12,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15559,
+                "stars": 15555,
                 "topics": [
                   "golang",
                   "json",
@@ -1662,10 +1662,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-28T17:39:41Z",
-                "open_issues": 168,
+                "open_issues": 169,
                 "owner": "tinygo-org",
                 "repo": "drivers",
-                "stars": 757,
+                "stars": 756,
                 "topics": [
                   "adxl345",
                   "apa102",
@@ -2067,8 +2067,8 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T20:58:55Z",
-            "open_issues": 168,
+            "last_commit": "2026-11-06T16:18:47Z",
+            "open_issues": 170,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3086,
@@ -2100,11 +2100,11 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T06:11:23Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-06T12:02:57Z",
+            "open_issues": 30,
             "owner": "fxamacker",
             "repo": "cbor",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "cbor",
               "cbor-library",
@@ -2139,7 +2139,7 @@
             "open_issues": 9,
             "owner": "go-gl",
             "repo": "mathgl",
-            "stars": 609,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:04.133Z"
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T09:47:44.529Z",
+    "last_updated": "2026-11-07T09:11:36.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
