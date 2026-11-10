@@ -421,7 +421,7 @@
                     "id": 322699942,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-08T22:53:14Z",
+                    "last_commit": "2026-11-09T17:05:47Z",
                     "open_issues": 11,
                     "owner": "periph",
                     "repo": "devices",
@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T04:00:21Z",
+                    "last_commit": "2026-11-10T04:00:45Z",
                     "open_issues": 1,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1207,7 +1207,7 @@
                 "open_issues": 0,
                 "owner": "sago35",
                 "repo": "koebiten",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
@@ -1718,7 +1718,7 @@
             "open_issues": 4,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1539,
+            "stars": 1538,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2067,8 +2067,8 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T05:09:07Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-10T09:44:22Z",
+            "open_issues": 170,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3087,
@@ -2100,11 +2100,11 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T23:27:19Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-10T04:48:56Z",
+            "open_issues": 30,
             "owner": "fxamacker",
             "repo": "cbor",
-            "stars": 1105,
+            "stars": 1106,
             "topics": [
               "cbor",
               "cbor-library",
@@ -2340,7 +2340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T10:15:01.314Z",
+    "last_updated": "2026-11-10T10:18:53.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",

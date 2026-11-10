@@ -1,6 +1,6 @@
 # awesome-tinygo with stars
 
-A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 192,900 | 🐛 116 | 🌐 Go | 📅 2026-11-06.
+A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,073 | 🐛 116 | 🌐 Go | 📅 2026-11-06.
 
 **Contributing**:
 
@@ -66,7 +66,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 * [TinyGo Drivers](https://github.com/tinygo-org/drivers) ⭐ 756 | 🐛 170 | 🌐 Go | 📅 2026-10-28 - Provides a collection of hardware drivers for devices such as sensors and displays that can be used together with TinyGo.
 * [mm-go](https://github.com/joetifa2003/mm-go) ⭐ 195 | 🐛 1 | 🌐 Go | 📅 2025-01-05 - Generic manual memory management for golang.
-* [periph/devices](https://github.com/periph/devices) ⭐ 114 | 🐛 11 | 🌐 Go | 📅 2026-11-08 - Device drivers.
+* [periph/devices](https://github.com/periph/devices) ⭐ 114 | 🐛 11 | 🌐 Go | 📅 2026-11-09 - Device drivers.
 * [tinymath](https://github.com/orsinium-labs/tinymath) ⭐ 102 | 🐛 0 | 🌐 Go | 📅 2026-10-19 - The fastest and smallest Go math library for constrained environments, like microcontrollers or WebAssembly.
 * [go-pico](https://github.com/djthorpe/go-pico) ⭐ 70 | 🐛 7 | 🌐 Go | 📅 2022-11-20 - Raspberry Pi RP2040 Pico SDK for golang.
 * [go-maquina](https://github.com/soypat/go-maquina) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2023-08-25 - Finite State Machine (FSM) implementation with simplicity and maintainability in mind using Go generics.
@@ -79,7 +79,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ### Protocol implementations
 
-* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 199 | 🐛 1 | 🌐 Go | 📅 2026-11-09 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
+* [gomavlib](https://github.com/bluenviron/gomavlib) ⭐ 199 | 🐛 1 | 🌐 Go | 📅 2026-11-10 - Mavlink protocol (2.0 and 1.0) implementation in Go for control and instrumentation of autonomous vehicles.
 * [mlkem768](https://github.com/FiloSottile/mlkem768) ⭐ 195 | 🐛 0 | 🌐 Go | 📅 2026-02-14 - Quantum-resistant key encapsulation method ML-KEM (formerly known as Kyber) implementation in Go.
 * [natiu-mqtt](https://github.com/soypat/natiu-mqtt) ⭐ 106 | 🐛 2 | 🌐 Go | 📅 2026-07-06 - A dead-simple, extensible MQTT implementation well suited for embedded systems.
 * [seqs](https://github.com/soypat/seqs) ⚠️ Archived - Networking library for use on microcontrollers. Basically a more featureful LWIP.
@@ -107,7 +107,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ## Gaming
 
-* [koebiten](https://github.com/sago35/koebiten) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-08-29 - Koebiten is a 2D game engine that runs on TinyGo. Inspired by Ebitengine and is characterized by its simple API.
+* [koebiten](https://github.com/sago35/koebiten) ⭐ 59 | 🐛 0 | 🌐 Go | 📅 2026-08-29 - Koebiten is a 2D game engine that runs on TinyGo. Inspired by Ebitengine and is characterized by its simple API.
 * [tinygba](https://github.com/tinygo-org/tinygba) ⭐ 38 | 🐛 3 | 🌐 Go | 📅 2026-02-22 - Tools and helpers for developing GBA programs using TinyGo.
 * [wasm4go](https://github.com/orsinium-labs/wasm4go) ⭐ 29 | 🐛 0 | 🌐 Go | 📅 2024-03-29 - Framework for making WASM-4 games with Go (and TinyGo).
 * [Flappy Boot](https://github.com/bjatkin/flappy-boot) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2024-09-02 - clone of flappy bird for the GBA written using TinyGo.
@@ -143,7 +143,7 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Hardware and software implementations**
 
-* [go-haystack](https://github.com/hybridgroup/go-haystack) ⭐ 1,539 | 🐛 4 | 🌐 Go | 📅 2026-10-13 - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
+* [go-haystack](https://github.com/hybridgroup/go-haystack) ⭐ 1,538 | 🐛 4 | 🌐 Go | 📅 2026-10-13 - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 * [wasmVision](https://github.com/wasmvision/wasmvision) ⭐ 247 | 🐛 2 | 🌐 Go | 📅 2026-02-16 - wasmVision gets you going with computer vision using WebAssembly with processors written using TinyGo/Rust/C.
 * [USB HID Keyboard firmware for TinyGo](https://github.com/sago35/tinygo-keyboard) ⭐ 119 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - keyboard firmware for tinygo
 * [HeadTracker](https://github.com/ysoldak/HeadTracker) ⭐ 117 | 🐛 6 | 🌐 Go | 📅 2026-06-26 - Bluetooth DIY Head Tracker, for Nano 33 BLE and XIAO BLE Sense boards.
@@ -162,8 +162,8 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 **Packages that make life easier or more awesome in TinyGo**
 
-* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,087 | 🐛 169 | 🌐 Go | 📅 2026-11-09 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
-* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,105 | 🐛 29 | 🌐 Go | 📅 2026-11-08 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
+* [`u-root`](https://github.com/u-root/u-root) ⭐ 3,087 | 🐛 170 | 🌐 Go | 📅 2026-11-10 - Go versions of many standard Linux tools, such as ls, cp, or shutdown among other awesome OS stuff.
+* [`cbor`](https://github.com/fxamacker/cbor) ⭐ 1,106 | 🐛 30 | 🌐 Go | 📅 2026-11-10 - Library for encoding and decoding Concise Binary Object Representation data and Sequences (RFC8949).
 * [`mathgl`](https://github.com/go-gl/mathgl) ⭐ 610 | 🐛 9 | 🌐 Go | 📅 2024-11-03 - A pure Go 3D math library.
 * [`float16`](https://github.com/x448/float16) ⭐ 100 | 🐛 4 | 🌐 Go | 📅 2026-11-08 - IEEE 754 half-precision floating-point format (binary16) library.
 * [`math32`](https://github.com/chewxy/math32) ⭐ 86 | 🐛 6 | 🌐 Go | 📅 2026-09-29 - 32bit math functions in pure Go.
@@ -187,4 +187,4 @@ A curated list of awesome TinyGo projects. Inspired by [awesome-go](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
