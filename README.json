@@ -355,7 +355,7 @@
                     "language": "Go",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-18T22:28:04Z",
-                    "open_issues": 158,
+                    "open_issues": 154,
                     "owner": "tinygo-org",
                     "repo": "drivers",
                     "stars": 757,
@@ -688,8 +688,8 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T05:02:11Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-22T11:40:14Z",
+                    "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 200,
@@ -1096,7 +1096,7 @@
                 "open_issues": 12,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15582,
+                "stars": 15580,
                 "topics": [
                   "golang",
                   "json",
@@ -1462,7 +1462,7 @@
                     "open_issues": 1,
                     "owner": "goui-org",
                     "repo": "goui",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "golang",
                       "ui",
@@ -1662,7 +1662,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-18T22:28:04Z",
-                "open_issues": 158,
+                "open_issues": 154,
                 "owner": "tinygo-org",
                 "repo": "drivers",
                 "stars": 757,
@@ -1690,6 +1690,32 @@
                 ]
               },
               "first_seen": "2026-08-28T14:34:04.133Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WSPR in TinyGo",
+              "description": "A WSPR implementation that uses RP2040 capabilities like DMA and the PIO to measure and control frequencies to high precision to encode and drive WSPR signals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A WSPR beacon that uses novel techniques to control an Si5351 for mHz frequency control even into the UHF range.",
+                "homepage": null,
+                "id": 917270437,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-04T19:38:02Z",
+                "open_issues": 0,
+                "owner": "tdunning",
+                "repo": "go-wspr",
+                "stars": 5,
+                "topics": [
+                  "ham-radio",
+                  "ham-radio-software",
+                  "si5351",
+                  "wspr-beacon"
+                ]
+              },
+              "first_seen": "2026-11-23T11:10:59.352Z"
             }
           ],
           "description": null,
@@ -1718,7 +1744,7 @@
             "open_issues": 4,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1544,
+            "stars": 1546,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2068,7 +2094,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-21T07:18:54Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "u-root",
             "repo": "u-root",
             "stars": 3091,
@@ -2337,10 +2363,74 @@
         }
       ],
       "title": "Awesome Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Blinky tutorial",
+                  "description": "A tutorial to get familiar with TinyGo basics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Web site for TinyGo project.",
+                    "homepage": "https://tinygo.org",
+                    "id": 162287279,
+                    "language": "HTML",
+                    "license": null,
+                    "last_commit": "2026-11-13T08:18:29Z",
+                    "open_issues": 56,
+                    "owner": "tinygo-org",
+                    "repo": "tinygo-site",
+                    "stars": 70,
+                    "topics": [
+                      "tinygo"
+                    ]
+                  },
+                  "first_seen": "2026-11-23T11:10:59.352Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TinyGo Seeed Grove",
+                  "description": "Step by step guide, drivers and examples for the Seeed Studio Grove modules and the TinyGo XIAO Starter Kit.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Seeed Studio Grove API and tutorials ",
+                    "homepage": null,
+                    "id": 1290180451,
+                    "language": "Go",
+                    "license": null,
+                    "last_commit": "2026-08-04T18:37:47Z",
+                    "open_issues": 3,
+                    "owner": "soypat",
+                    "repo": "tinygo-seeed-grove",
+                    "stars": 18,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-23T11:10:59.352Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites"
+        }
+      ],
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T10:12:32.548Z",
+    "last_updated": "2026-11-23T11:10:59.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
@@ -2348,11 +2438,11 @@
       "id": 347229687,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-07-25T08:38:57Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-22T20:17:51Z",
+      "open_issues": 0,
       "owner": "tinygo-org",
       "repo": "awesome-tinygo",
-      "stars": 166,
+      "stars": 167,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2362,7 +2452,7 @@
         "tinygo"
       ]
     },
-    "original_repository_sha": "1177acf19a08a7002269f4541067e25e5e87226d",
+    "original_repository_sha": "c602831c6423d5fb159cca4b71cde7817a80ec94",
     "enhanced_repository": "enhansome/enhansome-tinygo",
     "enhanced_repository_description": null,
     "title": "awesome-tinygo with stars"
