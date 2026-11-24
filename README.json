@@ -146,7 +146,7 @@
                 "id": 257104356,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-15T09:12:02Z",
+                "last_commit": "2026-11-24T11:25:05Z",
                 "open_issues": 1,
                 "owner": "tinygo-org",
                 "repo": "tinyhci",
@@ -688,8 +688,8 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-22T11:40:14Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-11-24T11:37:01Z",
+                    "open_issues": 1,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
                     "stars": 200,
@@ -1096,7 +1096,7 @@
                 "open_issues": 12,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15580,
+                "stars": 15581,
                 "topics": [
                   "golang",
                   "json",
@@ -1528,7 +1528,7 @@
                     "open_issues": 40,
                     "owner": "bytecodealliance",
                     "repo": "go-modules",
-                    "stars": 148,
+                    "stars": 147,
                     "topics": [
                       "component-model",
                       "go",
@@ -1868,7 +1868,7 @@
             "open_issues": 0,
             "owner": "hybridgroup",
             "repo": "tinyglobo",
-            "stars": 64,
+            "stars": 63,
             "topics": [
               "golang",
               "lorawan",
@@ -2093,11 +2093,11 @@
             "id": 46462030,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-21T07:18:54Z",
-            "open_issues": 172,
+            "last_commit": "2026-11-23T16:06:46Z",
+            "open_issues": 171,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3091,
+            "stars": 3092,
             "topics": [
               "busybox",
               "coreboot",
@@ -2126,7 +2126,7 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T12:03:07Z",
+            "last_commit": "2026-11-23T14:21:33Z",
             "open_issues": 29,
             "owner": "fxamacker",
             "repo": "cbor",
@@ -2211,7 +2211,7 @@
             "id": 68250885,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-29T14:53:55Z",
+            "last_commit": "2026-11-23T20:31:02Z",
             "open_issues": 7,
             "owner": "chewxy",
             "repo": "math32",
@@ -2410,7 +2410,7 @@
                     "open_issues": 3,
                     "owner": "soypat",
                     "repo": "tinygo-seeed-grove",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-11-23T11:10:59.352Z"
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T11:10:59.352Z",
+    "last_updated": "2026-11-24T12:53:27.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
