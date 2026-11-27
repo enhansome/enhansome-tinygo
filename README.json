@@ -688,7 +688,7 @@
                     "id": 175249826,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T05:03:58Z",
+                    "last_commit": "2026-11-27T05:05:34Z",
                     "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
@@ -1175,7 +1175,7 @@
                 "id": 784951910,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T22:27:42Z",
+                "last_commit": "2026-11-27T01:10:47Z",
                 "open_issues": 1,
                 "owner": "aperturerobotics",
                 "repo": "protobuf-go-lite",
@@ -1626,7 +1626,7 @@
                 "open_issues": 116,
                 "owner": "tinygo-org",
                 "repo": "bluetooth",
-                "stars": 1027,
+                "stars": 1026,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -1744,7 +1744,7 @@
             "open_issues": 4,
             "owner": "hybridgroup",
             "repo": "go-haystack",
-            "stars": 1548,
+            "stars": 1549,
             "topics": [
               "airtag",
               "bluetooth",
@@ -2097,7 +2097,7 @@
             "open_issues": 171,
             "owner": "u-root",
             "repo": "u-root",
-            "stars": 3092,
+            "stars": 3093,
             "topics": [
               "busybox",
               "coreboot",
@@ -2130,7 +2130,7 @@
             "open_issues": 28,
             "owner": "fxamacker",
             "repo": "cbor",
-            "stars": 1109,
+            "stars": 1111,
             "topics": [
               "cbor",
               "cbor-library",
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T11:26:38.224Z",
+    "last_updated": "2026-11-27T11:21:16.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
