@@ -150,7 +150,7 @@
                 "open_issues": 1,
                 "owner": "tinygo-org",
                 "repo": "tinyhci",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "arduino-nano-33-iot",
                   "arduino-uno",
@@ -692,7 +692,7 @@
                     "open_issues": 0,
                     "owner": "bluenviron",
                     "repo": "gomavlib",
-                    "stars": 201,
+                    "stars": 202,
                     "topics": [
                       "go",
                       "golang",
@@ -1096,7 +1096,7 @@
                 "open_issues": 13,
                 "owner": "tidwall",
                 "repo": "gjson",
-                "stars": 15581,
+                "stars": 15582,
                 "topics": [
                   "golang",
                   "json",
@@ -1121,7 +1121,7 @@
                 "open_issues": 104,
                 "owner": "mailru",
                 "repo": "easyjson",
-                "stars": 4918,
+                "stars": 4917,
                 "topics": [
                   "code-generation",
                   "golang",
@@ -2126,8 +2126,8 @@
             "id": 186904487,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:02:46Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-27T12:02:58Z",
+            "open_issues": 29,
             "owner": "fxamacker",
             "repo": "cbor",
             "stars": 1111,
@@ -2253,7 +2253,7 @@
             "id": 943337093,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T06:05:22Z",
+            "last_commit": "2026-11-27T20:52:34Z",
             "open_issues": 0,
             "owner": "webtyp",
             "repo": "fmt",
@@ -2387,7 +2387,7 @@
                     "open_issues": 56,
                     "owner": "tinygo-org",
                     "repo": "tinygo-site",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": [
                       "tinygo"
                     ]
@@ -2430,7 +2430,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:21:16.682Z",
+    "last_updated": "2026-11-28T10:48:54.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.",
